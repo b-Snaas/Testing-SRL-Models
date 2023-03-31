@@ -1,0 +1,2717 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: The teacher] [V: taught] [ARG2: the students] [ARG1: a lesson] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "taught",
+            "the",
+            "students",
+            "a",
+            "lesson",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: The teacher] [V: taught] [ARG1: a lesson] [ARG2: to the students] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "taught",
+            "a",
+            "lesson",
+            "to",
+            "the",
+            "students",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: She] [V: handed] [ARG2: him] [ARG1: the keys] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "him",
+            "the",
+            "keys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: She] [V: handed] [ARG1: the keys] [ARG2: to him] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "the",
+            "keys",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: The author] [V: sent] [ARG2: the publisher] [ARG1: a manuscript] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "author",
+            "sent",
+            "the",
+            "publisher",
+            "a",
+            "manuscript",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: The author] [V: sent] [ARG1: a manuscript] [ARG2: to the publisher] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "author",
+            "sent",
+            "a",
+            "manuscript",
+            "to",
+            "the",
+            "publisher",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: The company] [V: offered] [ARG3: her] [ARG1: a promotion] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG3",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "offered",
+            "her",
+            "a",
+            "promotion",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: The company] [V: offered] [ARG1: a promotion] [ARG3: to her] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG3",
+                    "I-ARG3",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "offered",
+            "a",
+            "promotion",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The magician] [V: gave] [ARG2: the child] [ARG1: a balloon] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "magician",
+            "gave",
+            "the",
+            "child",
+            "a",
+            "balloon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The magician] [V: gave] [ARG1: a balloon] [ARG2: to the child] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "magician",
+            "gave",
+            "a",
+            "balloon",
+            "to",
+            "the",
+            "child",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "assigned",
+                "description": "[ARG0: The manager] [V: assigned] [ARG1: them] [ARG2: a task] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "manager",
+            "assigned",
+            "them",
+            "a",
+            "task",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "assigned",
+                "description": "[ARG0: The manager] [V: assigned] [ARG1: a task] [ARG2: to them] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "manager",
+            "assigned",
+            "a",
+            "task",
+            "to",
+            "them",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "explained",
+                "description": "[ARG0: The scientist] [V: explained] [ARG2: the students] [ARG1: a concept] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "explained",
+            "the",
+            "students",
+            "a",
+            "concept",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "explained",
+                "description": "[ARG0: The scientist] [V: explained] [ARG1: a concept] [ARG2: to the students] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "explained",
+            "a",
+            "concept",
+            "to",
+            "the",
+            "students",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The nurse] [V: read] [ARG2: the patient] [ARG1: a story] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "nurse",
+            "read",
+            "the",
+            "patient",
+            "a",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The nurse] [V: read] [ARG1: a story] [ARG2: to the patient] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "nurse",
+            "read",
+            "a",
+            "story",
+            "to",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "lent",
+                "description": "[ARG0: John] [V: lent] [ARG2: Mary] [ARG1: his car] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "lent",
+            "Mary",
+            "his",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "lent",
+                "description": "[ARG0: John] [V: lent] [ARG1: his car] [ARG2: to Mary] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "lent",
+            "his",
+            "car",
+            "to",
+            "Mary",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "donated",
+                "description": "[ARG0: The charity] [V: donated] [ARG1: the school supplies] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "charity",
+            "donated",
+            "the",
+            "school",
+            "supplies",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "donated",
+                "description": "[ARG0: The charity] [V: donated] [ARG1: supplies] [ARG2: to the school] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "charity",
+            "donated",
+            "supplies",
+            "to",
+            "the",
+            "school",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "served",
+                "description": "[ARG0: The chef] [V: served] [ARG1: the guests dinner] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "the",
+            "guests",
+            "dinner",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "served",
+                "description": "[ARG0: The chef] [V: served] [ARG1: dinner] [ARG2: to the guests] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "dinner",
+            "to",
+            "the",
+            "guests",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "provided",
+                "description": "[ARG0: The company] [V: provided] [ARG1: the employees training] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "training",
+                "description": "The company provided the [ARG2: employees] [V: training] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "B-ARG2",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "provided",
+            "the",
+            "employees",
+            "training",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "provided",
+                "description": "[ARG0: The company] [V: provided] [ARG1: training] [ARG2: to the employees] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "provided",
+            "training",
+            "to",
+            "the",
+            "employees",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "recommended",
+                "description": "[ARG0: The librarian] [V: recommended] [ARG2: the students] [ARG1: a book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "librarian",
+            "recommended",
+            "the",
+            "students",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "recommended",
+                "description": "[ARG0: The librarian] [V: recommended] [ARG1: a book] [ARG2: to the students] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "librarian",
+            "recommended",
+            "a",
+            "book",
+            "to",
+            "the",
+            "students",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "granted",
+                "description": "[ARG0: The bank] [V: granted] [ARG2: him] [ARG1: a loan] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bank",
+            "granted",
+            "him",
+            "a",
+            "loan",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "granted",
+                "description": "[ARG0: The bank] [V: granted] [ARG1: a loan] [ARG2: to him] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bank",
+            "granted",
+            "a",
+            "loan",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "promised",
+                "description": "[ARG0: The politician] [V: promised] [ARG2: the voters change] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            },
+            {
+                "verb": "change",
+                "description": "The politician promised [ARG1: the voters] [V: change] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "promised",
+            "the",
+            "voters",
+            "change",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "promised",
+                "description": "[ARG0: The politician] [V: promised] [ARG2: change to the voters] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "promised",
+            "change",
+            "to",
+            "the",
+            "voters",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: She] [V: handed] [ARG2: the cashier] [ARG1: the money] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "the",
+            "cashier",
+            "the",
+            "money",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: She] [V: handed] [ARG1: the money] [ARG2: to the cashier] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "the",
+            "money",
+            "to",
+            "the",
+            "cashier",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The supervisor] [V: gave] [ARG2: the employees] [ARG1: feedback] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "feedback",
+                "description": "The supervisor gave [ARG0: the employees] [V: feedback] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "supervisor",
+            "gave",
+            "the",
+            "employees",
+            "feedback",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The supervisor] [V: gave] [ARG1: feedback] [ARG2: to the employees] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "supervisor",
+            "gave",
+            "feedback",
+            "to",
+            "the",
+            "employees",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: She] [V: taught] [ARG2: the children] [ARG1: a song] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "taught",
+            "the",
+            "children",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: She] [V: taught] [ARG1: a song] [ARG2: to the children] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "taught",
+            "a",
+            "song",
+            "to",
+            "the",
+            "children",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "told",
+                "description": "[ARG0: He] [V: told] [ARG2: her] [ARG1: a secret] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "told",
+            "her",
+            "a",
+            "secret",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "told",
+                "description": "[ARG0: He] [V: told] [ARG1: a secret] [ARG2: to her] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "told",
+            "a",
+            "secret",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "served",
+                "description": "[ARG0: The chef] [V: served] [ARG2: the guests] [ARG1: a meal] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "the",
+            "guests",
+            "a",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "served",
+                "description": "[ARG0: The chef] [V: served] [ARG1: a meal] [ARG2: to the guests] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "a",
+            "meal",
+            "to",
+            "the",
+            "guests",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: The mother] [V: handed] [ARG2: the child] [ARG1: a toy] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mother",
+            "handed",
+            "the",
+            "child",
+            "a",
+            "toy",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: The mother] [V: handed] [ARG1: a toy] [ARG2: to the child] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mother",
+            "handed",
+            "a",
+            "toy",
+            "to",
+            "the",
+            "child",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: The baker] [V: sold] [ARG2: the customer] [ARG1: a cake] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baker",
+            "sold",
+            "the",
+            "customer",
+            "a",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: The baker] [V: sold] [ARG1: a cake] [ARG2: to the customer] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baker",
+            "sold",
+            "a",
+            "cake",
+            "to",
+            "the",
+            "customer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The pharmacist] [V: gave] [ARG1: the patient medication] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "pharmacist",
+            "gave",
+            "the",
+            "patient",
+            "medication",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The pharmacist] [V: gave] [ARG1: medication] [ARG2: to the patient] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "pharmacist",
+            "gave",
+            "medication",
+            "to",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: Lisa] [V: gave] [ARG1: Tom] [ARG1: advice] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Lisa",
+            "gave",
+            "Tom",
+            "advice",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: Lisa] [V: gave] [ARG1: advice] [ARG2: to Tom] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Lisa",
+            "gave",
+            "advice",
+            "to",
+            "Tom",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: Rebecca] [V: handed] [ARG2: Sam] [ARG1: a note] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Rebecca",
+            "handed",
+            "Sam",
+            "a",
+            "note",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: Rebecca] [V: handed] [ARG1: a note] [ARG2: to Sam] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Rebecca",
+            "handed",
+            "a",
+            "note",
+            "to",
+            "Sam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: Michael] [V: sold] [ARG1: Olivia a bicycle] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Michael",
+            "sold",
+            "Olivia",
+            "a",
+            "bicycle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: Michael] [V: sold] [ARG1: a bicycle] [ARG2: to Olivia] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Michael",
+            "sold",
+            "a",
+            "bicycle",
+            "to",
+            "Olivia",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: Nicole] [V: offered] [ARG3: Adam] [ARG1: a ride] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG3",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Nicole",
+            "offered",
+            "Adam",
+            "a",
+            "ride",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: Nicole] [V: offered] [ARG1: a ride] [ARG3: to Adam] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG3",
+                    "I-ARG3",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Nicole",
+            "offered",
+            "a",
+            "ride",
+            "to",
+            "Adam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: Justin] [V: sent] [ARG2: Rachel] [ARG1: a message] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Justin",
+            "sent",
+            "Rachel",
+            "a",
+            "message",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: Justin] [V: sent] [ARG1: a message] [ARG2: to Rachel] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Justin",
+            "sent",
+            "a",
+            "message",
+            "to",
+            "Rachel",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "showed",
+                "description": "[ARG0: Benjamin] [V: showed] [ARG2: Mia] [ARG1: a trick] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Benjamin",
+            "showed",
+            "Mia",
+            "a",
+            "trick",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "showed",
+                "description": "[ARG0: Benjamin] [V: showed] [ARG1: a trick] [ARG2: to Mia] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Benjamin",
+            "showed",
+            "a",
+            "trick",
+            "to",
+            "Mia",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARGM-TMP: Ava] [V: gave] [ARG2: Jacob] [ARG1: tips] .",
+                "tags": [
+                    "B-ARGM-TMP",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Ava",
+            "gave",
+            "Jacob",
+            "tips",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARGM-TMP: Ava] [V: gave] [ARG1: tips] [ARG2: to Jacob] .",
+                "tags": [
+                    "B-ARGM-TMP",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Ava",
+            "gave",
+            "tips",
+            "to",
+            "Jacob",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: Sofia] [V: sold] [ARG1: Charlie a guitar] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Sofia",
+            "sold",
+            "Charlie",
+            "a",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: Sofia] [V: sold] [ARG1: a guitar] [ARG2: to Charlie] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Sofia",
+            "sold",
+            "a",
+            "guitar",
+            "to",
+            "Charlie",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "passed",
+                "description": "[ARG0: Alexander] [V: passed] Lily [ARG1: a flyer] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Alexander",
+            "passed",
+            "Lily",
+            "a",
+            "flyer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "passed",
+                "description": "[ARG0: Alexander] [V: passed] [ARG1: a flyer] [ARG2: to Lily] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Alexander",
+            "passed",
+            "a",
+            "flyer",
+            "to",
+            "Lily",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The guide] [V: gave] [ARG2: the tourists] [ARG1: a map] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "guide",
+            "gave",
+            "the",
+            "tourists",
+            "a",
+            "map",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The guide] [V: gave] [ARG1: a map] [ARG2: to the tourists] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "guide",
+            "gave",
+            "a",
+            "map",
+            "to",
+            "the",
+            "tourists",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The artist] [V: gave] [ARG2: the collector] [ARG1: a painting] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "gave",
+            "the",
+            "collector",
+            "a",
+            "painting",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The artist] [V: gave] [ARG1: a painting] [ARG2: to the collector] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "gave",
+            "a",
+            "painting",
+            "to",
+            "the",
+            "collector",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: The shopkeeper] [V: handed] [ARG2: the shopper] [ARG1: a bag] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "shopkeeper",
+            "handed",
+            "the",
+            "shopper",
+            "a",
+            "bag",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: The shopkeeper] [V: handed] [ARG1: a bag] [ARG2: to the shopper] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "shopkeeper",
+            "handed",
+            "a",
+            "bag",
+            "to",
+            "the",
+            "shopper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: The host] [V: offered] [ARG3: the guest] [ARG1: a drink] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG3",
+                    "I-ARG3",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "host",
+            "offered",
+            "the",
+            "guest",
+            "a",
+            "drink",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: The host] [V: offered] [ARG1: a drink] [ARG3: to the guest] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG3",
+                    "I-ARG3",
+                    "I-ARG3",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "host",
+            "offered",
+            "a",
+            "drink",
+            "to",
+            "the",
+            "guest",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "showed",
+                "description": "[ARG0: The traveler] [V: showed] [ARG2: the locals] [ARG1: photos] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "traveler",
+            "showed",
+            "the",
+            "locals",
+            "photos",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "showed",
+                "description": "[ARG0: The traveler] [V: showed] [ARG1: photos] [ARG2: to the locals] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "traveler",
+            "showed",
+            "photos",
+            "to",
+            "the",
+            "locals",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "recommended",
+                "description": "[ARG0: The stylist] [V: recommended] [ARG2: the client] [ARG1: a haircut] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "stylist",
+            "recommended",
+            "the",
+            "client",
+            "a",
+            "haircut",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "recommended",
+                "description": "[ARG0: The stylist] [V: recommended] [ARG1: a haircut] [ARG2: to the client] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "stylist",
+            "recommended",
+            "a",
+            "haircut",
+            "to",
+            "the",
+            "client",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: The landlord] [V: handed] [ARG2: the tenant] [ARG1: the keys] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "landlord",
+            "handed",
+            "the",
+            "tenant",
+            "the",
+            "keys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: The landlord] [V: handed] [ARG1: the keys] [ARG2: to the tenant] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "landlord",
+            "handed",
+            "the",
+            "keys",
+            "to",
+            "the",
+            "tenant",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: He] [V: gave] [ARG2: her] [ARG1: a bouquet] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "her",
+            "a",
+            "bouquet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: He] [V: gave] [ARG1: a bouquet] [ARG2: to her] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "a",
+            "bouquet",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "showed",
+                "description": "[ARG0: She] [V: showed] [ARG2: him] [ARG1: her watch] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "showed",
+            "him",
+            "her",
+            "watch",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "showed",
+                "description": "[ARG0: She] [V: showed] [ARG1: her watch] [ARG2: to him] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "showed",
+            "her",
+            "watch",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: He] [V: taught] [ARG2: her] [ARG1: a trick] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "taught",
+            "her",
+            "a",
+            "trick",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: He] [V: taught] [ARG1: a trick] [ARG2: to her] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "taught",
+            "a",
+            "trick",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: She] [V: handed] [ARG2: him] [ARG1: a letter] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "him",
+            "a",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "handed",
+                "description": "[ARG0: She] [V: handed] [ARG1: a letter] [ARG2: to him] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "a",
+            "letter",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: He] [V: offered] [ARG3: her] [ARG1: a ride] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG3",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "offered",
+            "her",
+            "a",
+            "ride",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "offered",
+                "description": "[ARG0: He] [V: offered] [ARG1: a ride to her] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "offered",
+            "a",
+            "ride",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: She] [V: sent] [ARG2: him] [ARG1: an invitation] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "sent",
+            "him",
+            "an",
+            "invitation",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: She] [V: sent] [ARG1: an invitation] [ARG2: to him] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "sent",
+            "an",
+            "invitation",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: He] [V: gave] [ARG2: her] [ARG1: a tip] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "her",
+            "a",
+            "tip",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: He] [V: gave] [ARG1: a tip] [ARG2: to her] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "a",
+            "tip",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: Kyle] [V: sent] [ARG2: Madison an email] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Kyle",
+            "sent",
+            "Madison",
+            "an",
+            "email",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sent",
+                "description": "[ARG0: Kyle] [V: sent] [ARG1: an email] [ARG2: to Madison] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Kyle",
+            "sent",
+            "an",
+            "email",
+            "to",
+            "Madison",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: Ethan] [V: sold] [ARGM-PRD: Zoe] [ARG1: a camera] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARGM-PRD",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Ethan",
+            "sold",
+            "Zoe",
+            "a",
+            "camera",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sold",
+                "description": "[ARG0: Ethan] [V: sold] [ARG1: a camera] [ARG3: to Zoe] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG3",
+                    "I-ARG3",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Ethan",
+            "sold",
+            "a",
+            "camera",
+            "to",
+            "Zoe",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The volunteer] [V: read] [ARG2: the children] [ARG1: a story] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "volunteer",
+            "read",
+            "the",
+            "children",
+            "a",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The volunteer] [V: read] [ARG1: a story] [ARG2: to the children] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "volunteer",
+            "read",
+            "a",
+            "story",
+            "to",
+            "the",
+            "children",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "presented",
+                "description": "[ARG0: The mayor] [V: presented] [ARG2: the hero] [ARG1: the award] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mayor",
+            "presented",
+            "the",
+            "hero",
+            "the",
+            "award",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "presented",
+                "description": "[ARG0: The mayor] [V: presented] [ARG1: the award] [ARG2: to the hero] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mayor",
+            "presented",
+            "the",
+            "award",
+            "to",
+            "the",
+            "hero",
+            "."
+        ]
+    }
+]

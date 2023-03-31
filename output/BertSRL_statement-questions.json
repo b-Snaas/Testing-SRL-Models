@@ -1,0 +1,3087 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "chased",
+                "description": "[ARG0: The cat] [V: chased] [ARG1: the mouse] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "cat",
+            "chased",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the cat chase the mouse .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "chase",
+                "description": "Did [ARG0: the cat] [V: chase] [ARG1: the mouse] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "cat",
+            "chase",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: The girl] [V: ate] [ARG1: the pizza] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "ate",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the girl eat the pizza .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "eat",
+                "description": "Did [ARG0: the girl] [V: eat] [ARG1: the pizza] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "girl",
+            "eat",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "hit",
+                "description": "[ARG2: The car] [V: hit] [ARG1: the tree] .",
+                "tags": [
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "car",
+            "hit",
+            "the",
+            "tree",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the car hit the tree .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "hit",
+                "description": "Did [ARG2: the car] [V: hit] [ARG1: the tree] .",
+                "tags": [
+                    "O",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "car",
+            "hit",
+            "the",
+            "tree",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "kicked",
+                "description": "[ARG0: The boy] [V: kicked] [ARG1: the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "kicked",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the boy kick the ball .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "kick",
+                "description": "Did [ARG0: the boy] [V: kick] [ARG1: the ball] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "boy",
+            "kick",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "chased",
+                "description": "[ARG0: The dog] [V: chased] [ARG1: the cat] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the dog chase the cat .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "chase",
+                "description": "Did [ARG0: the dog] [V: chase] [ARG1: the cat] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "dog",
+            "chase",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "gave",
+                "description": "[ARG0: The teacher] [V: gave] [ARG2: the students] [ARG1: an assignment] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "gave",
+            "the",
+            "students",
+            "an",
+            "assignment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the teacher give the students an assignment .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "give",
+                "description": "Did [ARG0: the teacher] [V: give] [ARG2: the students] [ARG1: an assignment] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "teacher",
+            "give",
+            "the",
+            "students",
+            "an",
+            "assignment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: The man] [V: fixed] [ARG1: the faucet] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "fixed",
+            "the",
+            "faucet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the man fix the faucet .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "fix",
+                "description": "Did [ARG0: the man] [V: fix] [ARG1: the faucet] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "man",
+            "fix",
+            "the",
+            "faucet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "examined",
+                "description": "[ARG0: The doctor] [V: examined] [ARG1: the patient] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "doctor",
+            "examined",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the doctor examine the patient .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "examine",
+                "description": "Did [ARG0: the doctor] [V: examine] [ARG1: the patient] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "doctor",
+            "examine",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "performed",
+                "description": "[ARG0: The singer] [V: performed] [ARG1: a song] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "performed",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the singer perform a song .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "perform",
+                "description": "Did [ARG0: the singer] [V: perform] [ARG1: a song] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "singer",
+            "perform",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "launched",
+                "description": "[ARG0: The company] [V: launched] [ARG1: a product] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "launched",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the company launch a product .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "launch",
+                "description": "Did [ARG0: the company] [V: launch] [ARG1: a product] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "launch",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "broke",
+                "description": "[ARG0: The athlete] [V: broke] [ARG1: the record] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "broke",
+            "the",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the athlete break the record .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "break",
+                "description": "Did [ARG0: the athlete] [V: break] [ARG1: the record] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "athlete",
+            "break",
+            "the",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The student] [V: wrote] [ARG1: a paper] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "wrote",
+            "a",
+            "paper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the student write a paper .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "write",
+                "description": "Did [ARG0: the student] [V: write] [ARG1: a paper] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "student",
+            "write",
+            "a",
+            "paper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "created",
+                "description": "[ARG0: The painter] [V: created] [ARG1: a landscape] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "painter",
+            "created",
+            "a",
+            "landscape",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the painter create a landscape .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "create",
+                "description": "Did [ARG0: the painter] [V: create] [ARG1: a landscape] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "painter",
+            "create",
+            "a",
+            "landscape",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "delivered",
+                "description": "[ARG0: The politician] [V: delivered] [ARG1: a speech] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "delivered",
+            "a",
+            "speech",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the politician deliver a speech .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "deliver",
+                "description": "Did [ARG0: the politician] [V: deliver] [ARG1: a speech] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "politician",
+            "deliver",
+            "a",
+            "speech",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "conducted",
+                "description": "[ARG0: The scientist] [V: conducted] [ARG1: an experiment] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "conducted",
+            "an",
+            "experiment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the scientist conduct an experiment .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "conduct",
+                "description": "Did [ARG0: the scientist] [V: conduct] [ARG1: an experiment] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "scientist",
+            "conduct",
+            "an",
+            "experiment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "painted",
+                "description": "[ARG0: The artist] [V: painted] [ARG1: a portrait] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "painted",
+            "a",
+            "portrait",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the artist paint a portrait .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "paint",
+                "description": "Did [ARG0: the artist] [V: paint] [ARG1: a portrait] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "artist",
+            "paint",
+            "a",
+            "portrait",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "hired",
+                "description": "[ARG0: The manager] [V: hired] [ARG1: a employee] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "manager",
+            "hired",
+            "a",
+            "employee",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the manager hire a employee .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "hire",
+                "description": "Did [ARG0: the manager] [V: hire] [ARG1: a employee] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "manager",
+            "hire",
+            "a",
+            "employee",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "purchased",
+                "description": "[ARG0: The customer] [V: purchased] [ARG1: a product] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "customer",
+            "purchased",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the customer purchase a product .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "purchase",
+                "description": "Did [ARG0: the customer] [V: purchase] [ARG1: a product] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "customer",
+            "purchase",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "composed",
+                "description": "[ARG0: The musician] [V: composed] [ARG1: a song] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "composed",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the musician compose a song .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "compose",
+                "description": "Did [ARG0: the musician] [V: compose] [ARG1: a song] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "musician",
+            "compose",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "released",
+                "description": "[ARG0: The company] [V: released] [ARG1: a update] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "released",
+            "a",
+            "update",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the company release a update .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "release",
+                "description": "Did [ARG0: the company] [V: release] [ARG1: a update] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "release",
+            "a",
+            "update",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "crashed",
+                "description": "[ARG0: The driver] [V: crashed] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "crashed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the driver crash the car .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "crash",
+                "description": "Did [ARG0: the driver] [V: crash] [ARG1: the car] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "driver",
+            "crash",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cooked",
+                "description": "[ARG0: The chef] [V: cooked] [ARG1: a meal] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "cooked",
+            "a",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the chef cook a meal .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "cook",
+                "description": "Did [ARG0: the chef] [V: cook] [ARG1: a meal] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "chef",
+            "cook",
+            "a",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [],
+        "words": [
+            "The",
+            "doctor",
+            "prescribed",
+            "medication",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the doctor prescribe medication .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "prescribe",
+                "description": "Did [ARG0: the doctor] [V: prescribe] [ARG1: medication] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "doctor",
+            "prescribe",
+            "medication",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "performed",
+                "description": "[ARG0: The singer] [V: performed] [ARG1: a duet] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "performed",
+            "a",
+            "duet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the singer perform a duet .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "perform",
+                "description": "Did [ARG0: the singer] [V: perform] [ARG1: a duet] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "singer",
+            "perform",
+            "a",
+            "duet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "won",
+                "description": "[ARG0: The team] [V: won] [ARG1: the championship] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "team",
+            "won",
+            "the",
+            "championship",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the team win the championship .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "win",
+                "description": "Did [ARG0: the team] [V: win] [ARG1: the championship] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "team",
+            "win",
+            "the",
+            "championship",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The actor] [V: played] [ARG1: a role] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "actor",
+            "played",
+            "a",
+            "role",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the actor play a role .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "play",
+                "description": "Did [ARG0: the actor] [V: play] [ARG1: a role] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "actor",
+            "play",
+            "a",
+            "role",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "published",
+                "description": "[ARG0: The writer] [V: published] [ARG1: a book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "writer",
+            "published",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the writer publish a book .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "publish",
+                "description": "Did [ARG0: the writer] [V: publish] [ARG1: a book] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "writer",
+            "publish",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "graded",
+                "description": "[ARG0: The teacher] [V: graded] [ARG1: the assignments] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "graded",
+            "the",
+            "assignments",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] [ARG0: the teacher] grade [ARG1: the assignments] .",
+                "tags": [
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "grade",
+                "description": "[ARGM-LVB: Did] [ARG0: the teacher] [V: grade] [ARG1: the assignments] .",
+                "tags": [
+                    "B-ARGM-LVB",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "teacher",
+            "grade",
+            "the",
+            "assignments",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "acquired",
+                "description": "[ARG0: The company] [V: acquired] [ARG1: a business] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "acquired",
+            "a",
+            "business",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the company acquire a business .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "acquire",
+                "description": "Did [ARG0: the company] [V: acquire] [ARG1: a business] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "acquire",
+            "a",
+            "business",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "won",
+                "description": "[ARG0: The athlete] [V: won] [ARG1: a medal] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "won",
+            "a",
+            "medal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the athlete win a medal .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "win",
+                "description": "Did [ARG0: the athlete] [V: win] [ARG1: a medal] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "athlete",
+            "win",
+            "a",
+            "medal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "returned",
+                "description": "[ARG0: The customer] [V: returned] [ARG1: the product] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "customer",
+            "returned",
+            "the",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the customer return the product .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "return",
+                "description": "Did [ARG0: the customer] [V: return] [ARG1: the product] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "customer",
+            "return",
+            "the",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "passed",
+                "description": "[ARG1: The student] [V: passed] [ARG2: the exam] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "passed",
+            "the",
+            "exam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the student pass the exam .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "pass",
+                "description": "Did [ARG1: the student] [V: pass] [ARG2: the exam] .",
+                "tags": [
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "student",
+            "pass",
+            "the",
+            "exam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sculpted",
+                "description": "[ARG0: The artist] [V: sculpted] [ARG1: a statue] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "sculpted",
+            "a",
+            "statue",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the artist sculpt a statue .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "sculpt",
+                "description": "Did [ARG0: the artist] [V: sculpt] [ARG1: a statue] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "artist",
+            "sculpt",
+            "a",
+            "statue",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "proposed",
+                "description": "[ARG0: The politician] [V: proposed] [ARG1: a law] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "proposed",
+            "a",
+            "law",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the politician propose a law .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "propose",
+                "description": "Did [ARG0: the politician] [V: propose] [ARG1: a law] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "politician",
+            "propose",
+            "a",
+            "law",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "designed",
+                "description": "[ARG0: The engineer] [V: designed] [ARG1: a product] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engineer",
+            "designed",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the engineer design a product .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "design",
+                "description": "Did [ARG0: the engineer] [V: design] [ARG1: a product] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "engineer",
+            "design",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "discovered",
+                "description": "[ARG0: The scientist] [V: discovered] [ARG1: a species] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "discovered",
+            "a",
+            "species",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the scientist discover a species .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "discover",
+                "description": "Did [ARG0: the scientist] [V: discover] [ARG1: a species] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "scientist",
+            "discover",
+            "a",
+            "species",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "performed",
+                "description": "[ARG0: The musician] [V: performed] [ARG1: a solo] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "performed",
+            "a",
+            "solo",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the musician perform a solo .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "perform",
+                "description": "Did [ARG0: the musician] [V: perform] [ARG1: a solo] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "musician",
+            "perform",
+            "a",
+            "solo",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "announced",
+                "description": "[ARG0: The company] [V: announced] [ARG1: a feature] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "announced",
+            "a",
+            "feature",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the company announce a feature .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "announce",
+                "description": "Did [ARG0: the company] [V: announce] [ARG1: a feature] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "announce",
+            "a",
+            "feature",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: The driver] [V: fixed] [ARG1: the tire] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "fixed",
+            "the",
+            "tire",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the driver fix the tire .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "fix",
+                "description": "Did [ARG0: the driver] [V: fix] [ARG1: the tire] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "driver",
+            "fix",
+            "the",
+            "tire",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "baked",
+                "description": "[ARG0: The chef] [V: baked] [ARG1: a cake] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "baked",
+            "a",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the chef bake a cake .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "bake",
+                "description": "Did [ARG0: the chef] [V: bake] [ARG1: a cake] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "chef",
+            "bake",
+            "a",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "performed",
+                "description": "[ARG0: The doctor] [V: performed] [ARG1: a surgery] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "doctor",
+            "performed",
+            "a",
+            "surgery",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the doctor perform a surgery .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "perform",
+                "description": "Did [ARG0: the doctor] [V: perform] [ARG1: a surgery] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "doctor",
+            "perform",
+            "a",
+            "surgery",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "recorded",
+                "description": "[ARG0: The singer] [V: recorded] [ARG1: an album] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "recorded",
+            "an",
+            "album",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the singer record an album .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "record",
+                "description": "Did [ARG0: the singer] [V: record] [ARG1: an album] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "singer",
+            "record",
+            "an",
+            "album",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "lost",
+                "description": "[ARG0: The team] [V: lost] [ARG1: the game] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "team",
+            "lost",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the team lose the game .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "lose",
+                "description": "Did [ARG0: the team] [V: lose] [ARG1: the game] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "team",
+            "lose",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "received",
+                "description": "[ARG0: The actor] [V: received] [ARG1: an award] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "actor",
+            "received",
+            "an",
+            "award",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the actor receive an award .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "receive",
+                "description": "Did [ARG0: the actor] [V: receive] [ARG1: an award] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "actor",
+            "receive",
+            "an",
+            "award",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The writer] [V: wrote] [ARG1: a screenplay] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "writer",
+            "wrote",
+            "a",
+            "screenplay",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the writer write a screenplay .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "write",
+                "description": "Did [ARG0: the writer] [V: write] [ARG1: a screenplay] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "writer",
+            "write",
+            "a",
+            "screenplay",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "lectured",
+                "description": "[ARG0: The teacher] [V: lectured] [ARG2: on a topic] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "lectured",
+            "on",
+            "a",
+            "topic",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] [ARG1: the teacher lecture on a topic] .",
+                "tags": [
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "lecture",
+                "description": "[ARGM-LVB: Did] [ARG0: the teacher] [V: lecture] [ARG2: on a topic] .",
+                "tags": [
+                    "B-ARGM-LVB",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "teacher",
+            "lecture",
+            "on",
+            "a",
+            "topic",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "launched",
+                "description": "[ARG0: The company] [V: launched] [ARG1: a campaign] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "launched",
+            "a",
+            "campaign",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the company launch a campaign .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "launch",
+                "description": "Did [ARG0: the company] [V: launch] [ARG1: a campaign] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "launch",
+            "a",
+            "campaign",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "set",
+                "description": "[ARG0: The athlete] [V: set] [ARG1: a record] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "set",
+            "a",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the athlete set a record .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "set",
+                "description": "Did [ARG0: the athlete] [V: set] [ARG1: a record] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "athlete",
+            "set",
+            "a",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "placed",
+                "description": "[ARG0: The customer] [V: placed] [ARG1: an order] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "customer",
+            "placed",
+            "an",
+            "order",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "Did",
+                "description": "[V: Did] the customer place an order .",
+                "tags": [
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "place",
+                "description": "Did [ARG0: the customer] [V: place] [ARG1: an order] .",
+                "tags": [
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "customer",
+            "place",
+            "an",
+            "order",
+            "."
+        ]
+    }
+]

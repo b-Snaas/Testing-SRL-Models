@@ -1,0 +1,2162 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The door opened .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "door",
+            "opened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "John opened the door .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "opened",
+            "the",
+            "door",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The car stopped .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "car",
+            "stopped",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The mechanic stopped the car .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mechanic",
+            "stopped",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The flower bloomed .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "flower",
+            "bloomed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The gardener made the flower bloom .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "gardener",
+            "made",
+            "the",
+            "flower",
+            "bloom",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The bread rose .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bread",
+            "rose",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The baker let the bread rise .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baker",
+            "let",
+            "the",
+            "bread",
+            "rise",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The water boiled .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "water",
+            "boiled",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef boiled the water .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "boiled",
+            "the",
+            "water",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The window shattered .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "window",
+            "shattered",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The baseball shattered the window .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baseball",
+            "shattered",
+            "the",
+            "window",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The clothes dried .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "clothes",
+            "dried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The wind dried the clothes .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wind",
+            "dried",
+            "the",
+            "clothes",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The computer rebooted .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "computer",
+            "rebooted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The technician rebooted the computer .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "technician",
+            "rebooted",
+            "the",
+            "computer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The vase broke .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "vase",
+            "broke",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child broke the vase .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "broke",
+            "the",
+            "vase",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The tree grew .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "tree",
+            "grew",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The gardener helped the tree grow .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "gardener",
+            "helped",
+            "the",
+            "tree",
+            "grow",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The balloon popped .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "balloon",
+            "popped",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The girl popped the balloon .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "popped",
+            "the",
+            "balloon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The ball bounced .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "ball",
+            "bounced",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The player bounced the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "player",
+            "bounced",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The door closed .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "door",
+            "closed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The wind closed the door .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wind",
+            "closed",
+            "the",
+            "door",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The engine started .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engine",
+            "started",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The driver started the engine .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "started",
+            "the",
+            "engine",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The phone rang .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "phone",
+            "rang",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The caller made the phone ring .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "caller",
+            "made",
+            "the",
+            "phone",
+            "ring",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The song ended .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "song",
+            "ended",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The singer ended the song .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "ended",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The ice melted .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "ice",
+            "melted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The sun melted the ice .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "sun",
+            "melted",
+            "the",
+            "ice",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The window broke .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "window",
+            "broke",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child broke the window .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "broke",
+            "the",
+            "window",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The grass grew .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "grass",
+            "grew",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The rain made the grass grow .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "rain",
+            "made",
+            "the",
+            "grass",
+            "grow",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The light turned on .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "light",
+            "turned",
+            "on",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She turned on the light .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "turned",
+            "on",
+            "the",
+            "light",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The dog barked .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "barked",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The noise made the dog bark .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "noise",
+            "made",
+            "the",
+            "dog",
+            "bark",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The leaves fell .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "leaves",
+            "fell",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The wind made the leaves fall .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wind",
+            "made",
+            "the",
+            "leaves",
+            "fall",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The paper tore .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "paper",
+            "tore",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He tore the paper .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "tore",
+            "the",
+            "paper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The book closed .",
+                "tags": [
+                    "O",
+                    "ARG1",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "book",
+            "closed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She closed the book .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "closed",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The bell rang .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bell",
+            "rang",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The student rang the bell .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "rang",
+            "the",
+            "bell",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The tire deflated .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "tire",
+            "deflated",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The nail deflated the tire .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "nail",
+            "deflated",
+            "the",
+            "tire",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The machine started .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "machine",
+            "started",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The engineer started the machine .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engineer",
+            "started",
+            "the",
+            "machine",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The egg cracked .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "egg",
+            "cracked",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She cracked the egg .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "cracked",
+            "the",
+            "egg",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The curtains opened .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "curtains",
+            "opened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He opened the curtains .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "opened",
+            "the",
+            "curtains",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The door locked .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "door",
+            "locked",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He locked the door .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "locked",
+            "the",
+            "door",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The show ended .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "show",
+            "ended",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The director ended the show .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "director",
+            "ended",
+            "the",
+            "show",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The candle flickered .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "candle",
+            "flickered",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She flickered the candle .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "flickered",
+            "the",
+            "candle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The river flowed .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "river",
+            "flowed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The current flowed the river .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "current",
+            "flowed",
+            "the",
+            "river",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The ice melted .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "ice",
+            "melted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The heat melted the ice .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "heat",
+            "melted",
+            "the",
+            "ice",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chocolate hardened .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chocolate",
+            "hardened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The cold hardened the chocolate .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "cold",
+            "hardened",
+            "the",
+            "chocolate",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The paint dried .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "paint",
+            "dried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The air dried the paint .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "air",
+            "dried",
+            "the",
+            "paint",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The lamp switched off .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "lamp",
+            "switched",
+            "off",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He switched off the lamp .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "switched",
+            "off",
+            "the",
+            "lamp",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The television turned off .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "television",
+            "turned",
+            "off",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The remote turned off the television .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "remote",
+            "turned",
+            "off",
+            "the",
+            "television",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The music stopped .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "music",
+            "stopped",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The DJ stopped the music .",
+                "tags": [
+                    "O",
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "DJ",
+            "stopped",
+            "the",
+            "music",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The wheel spun .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wheel",
+            "spun",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The driver spun the wheel .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "spun",
+            "the",
+            "wheel",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The soup cooled .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "soup",
+            "cooled",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The air cooled the soup .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "air",
+            "cooled",
+            "the",
+            "soup",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The knot tightened .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "knot",
+            "tightened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Frank tightened the knot .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Frank",
+            "tightened",
+            "the",
+            "knot",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The rocks shifted .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "rocks",
+            "shifted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The earthquake shifted the rocks .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "earthquake",
+            "shifted",
+            "the",
+            "rocks",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The battery drained .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "battery",
+            "drained",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The device drained the battery .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "device",
+            "drained",
+            "the",
+            "battery",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The toast burned .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "toast",
+            "burned",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Mark burned the toast .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Mark",
+            "burned",
+            "the",
+            "toast",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The line formed .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "line",
+            "formed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The crowd formed the line .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "crowd",
+            "formed",
+            "the",
+            "line",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The snow accumulated .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "snow",
+            "accumulated",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The blizzard accumulated the snow .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "blizzard",
+            "accumulated",
+            "the",
+            "snow",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The traffic slowed .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "traffic",
+            "slowed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The accident slowed the traffic .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "accident",
+            "slowed",
+            "the",
+            "traffic",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The puddle evaporated .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "puddle",
+            "evaporated",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The sun evaporated the puddle .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "sun",
+            "evaporated",
+            "the",
+            "puddle",
+            "."
+        ]
+    }
+]

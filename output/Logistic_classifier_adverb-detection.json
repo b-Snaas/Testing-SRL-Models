@@ -1,0 +1,2484 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She sang the song .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She beautifully sang the song .",
+                "tags": [
+                    "ARG1",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "beautifully",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He drove the car .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He carefully drove the car .",
+                "tags": [
+                    "ARG0",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "carefully",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "They ate pizza for dinner .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "They",
+            "ate",
+            "pizza",
+            "for",
+            "dinner",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "They happily ate pizza for dinner .",
+                "tags": [
+                    "ARG0",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "They",
+            "happily",
+            "ate",
+            "pizza",
+            "for",
+            "dinner",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy read the book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy enthusiastically read the book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "enthusiastically",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The girl played with the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The girl happily played with the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "happily",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy hit the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "hit",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy skillfully hit the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "skillfully",
+            "hit",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She walked to the park .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "walked",
+            "to",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She slowly walked to the park .",
+                "tags": [
+                    "ARG1",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "slowly",
+            "walked",
+            "to",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He wrote a letter .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "wrote",
+            "a",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He thoughtfully wrote a letter .",
+                "tags": [
+                    "ARG0",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "thoughtfully",
+            "wrote",
+            "a",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman danced at the party .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "danced",
+            "at",
+            "the",
+            "party",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman gracefully danced at the party .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "gracefully",
+            "danced",
+            "at",
+            "the",
+            "party",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man fixed the car .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man meticulously fixed the car .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "meticulously",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The dog chased the cat .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The dog eagerly chased the cat .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "eagerly",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The baby cried .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baby",
+            "cried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The baby loudly cried .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baby",
+            "loudly",
+            "cried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man lifted the weights .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "lifted",
+            "the",
+            "weights",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man effortlessly lifted the weights .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "effortlessly",
+            "lifted",
+            "the",
+            "weights",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The children watched a movie .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "watched",
+            "a",
+            "movie",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The children excitedly watched a movie .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "excitedly",
+            "watched",
+            "a",
+            "movie",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The musician played the guitar .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The musician passionately played the guitar .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "passionately",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman read a book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "read",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman avidly read a book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "avidly",
+            "read",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The athlete ran the race .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The athlete competitively ran the race .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "competitively",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy caught the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy skillfully caught the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "skillfully",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman taught the class .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "taught",
+            "the",
+            "class",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman enthusiastically taught the class .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "enthusiastically",
+            "taught",
+            "the",
+            "class",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The children played with the toys .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "played",
+            "with",
+            "the",
+            "toys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The children happily played with the toys .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "happily",
+            "played",
+            "with",
+            "the",
+            "toys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman ran the marathon .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "ran",
+            "the",
+            "marathon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman successfully ran the marathon .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "successfully",
+            "ran",
+            "the",
+            "marathon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man painted the wall .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "painted",
+            "the",
+            "wall",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man carefully painted the wall .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "carefully",
+            "painted",
+            "the",
+            "wall",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man spoke on the phone .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "spoke",
+            "on",
+            "the",
+            "phone",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man impatiently spoke on the phone .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "impatiently",
+            "spoke",
+            "on",
+            "the",
+            "phone",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child ran in the park .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child happily ran in the park .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "happily",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman typed the report .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "typed",
+            "the",
+            "report",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman quickly typed the report .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "quickly",
+            "typed",
+            "the",
+            "report",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man sat on the chair .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "sat",
+            "on",
+            "the",
+            "chair",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man comfortably sat on the chair .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-MNR",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "comfortably",
+            "sat",
+            "on",
+            "the",
+            "chair",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man read the book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man avidly read the book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "avidly",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman danced on the stage .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "danced",
+            "on",
+            "the",
+            "stage",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman gracefully danced on the stage .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "gracefully",
+            "danced",
+            "on",
+            "the",
+            "stage",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man wrote the letter .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man thoughtfully wrote the letter .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "thoughtfully",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child played with the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child energetically played with the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "energetically",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman sang the song .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman passionately sang the song .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "passionately",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man drove the car .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man carefully drove the car .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "carefully",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child drew the picture .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child creatively drew the picture .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "creatively",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman climbed the stairs .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "climbed",
+            "the",
+            "stairs",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman slowly climbed the stairs .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "slowly",
+            "climbed",
+            "the",
+            "stairs",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man played the game .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "played",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man competitively played the game .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "competitively",
+            "played",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child ate the pizza .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ate",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child eagerly ate the pizza .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "eagerly",
+            "ate",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman ran the race .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman confidently ran the race .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "confidently",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man fixed the bike .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "fixed",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man skillfully fixed the bike .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "skillfully",
+            "fixed",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child watched the TV .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "watched",
+            "the",
+            "TV",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child excitedly watched the TV .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "excitedly",
+            "watched",
+            "the",
+            "TV",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman wrote the story .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "wrote",
+            "the",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman imaginatively wrote the story .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "imaginatively",
+            "wrote",
+            "the",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man played the guitar .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man passionately played the guitar .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "passionately",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man played with the dog .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "played",
+            "with",
+            "the",
+            "dog",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man happily played with the dog .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "happily",
+            "played",
+            "with",
+            "the",
+            "dog",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child ate the sandwich .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ate",
+            "the",
+            "sandwich",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child hungrily ate the sandwich .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "hungrily",
+            "ate",
+            "the",
+            "sandwich",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman wrote the script .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "wrote",
+            "the",
+            "script",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman creatively wrote the script .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "creatively",
+            "wrote",
+            "the",
+            "script",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man ran in the park .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man energetically ran in the park .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "energetically",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child played with the blocks .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "played",
+            "with",
+            "the",
+            "blocks",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child imaginatively played with the blocks .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "imaginatively",
+            "played",
+            "with",
+            "the",
+            "blocks",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman danced in the studio .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "danced",
+            "in",
+            "the",
+            "studio",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The woman gracefully danced in the studio .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "gracefully",
+            "danced",
+            "in",
+            "the",
+            "studio",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man spoke at the meeting .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "spoke",
+            "at",
+            "the",
+            "meeting",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man confidently spoke at the meeting .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "confidently",
+            "spoke",
+            "at",
+            "the",
+            "meeting",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child rode the bike .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "rode",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child fearlessly rode the bike .",
+                "tags": [
+                    "O",
+                    "V",
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "fearlessly",
+            "rode",
+            "the",
+            "bike",
+            "."
+        ]
+    }
+]

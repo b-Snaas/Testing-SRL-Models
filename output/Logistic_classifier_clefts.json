@@ -1,0 +1,2472 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "John bought the bike .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "bought",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was John who bought the bike .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "John",
+            "who",
+            "bought",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Maria made the cake .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Maria",
+            "made",
+            "the",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It is Maria who made the cake .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "is",
+            "Maria",
+            "who",
+            "made",
+            "the",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "David found the key .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "David",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was David who found the key .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "David",
+            "who",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Sarah wrote the letter .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Sarah",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It is Sarah who wrote the letter .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "is",
+            "Sarah",
+            "who",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Tom fixed the car .",
+                "tags": [
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Tom",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Tom who fixed the car .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Tom",
+            "who",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The cat caught the mouse .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "cat",
+            "caught",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the cat who caught the mouse .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "cat",
+            "who",
+            "caught",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The doctor examined the patient .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "doctor",
+            "examined",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the doctor who examined the patient .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "doctor",
+            "who",
+            "examined",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy broke the vase .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "broke",
+            "the",
+            "vase",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the boy who broke the vase .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "boy",
+            "who",
+            "broke",
+            "the",
+            "vase",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The singer performed the song .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "performed",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the singer who performed the song .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "singer",
+            "who",
+            "performed",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The teacher explained the lesson .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "explained",
+            "the",
+            "lesson",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the teacher who explained the lesson .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "teacher",
+            "who",
+            "explained",
+            "the",
+            "lesson",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The dog chased the cat .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the dog who chased the cat .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "dog",
+            "who",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The painter created a masterpiece .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "painter",
+            "created",
+            "a",
+            "masterpiece",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the painter who created a masterpiece .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "painter",
+            "who",
+            "created",
+            "a",
+            "masterpiece",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The waiter brought the food .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "waiter",
+            "brought",
+            "the",
+            "food",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the waiter who brought the food .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "waiter",
+            "who",
+            "brought",
+            "the",
+            "food",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The student answered the question .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "answered",
+            "the",
+            "question",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the student who answered the question .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "student",
+            "who",
+            "answered",
+            "the",
+            "question",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The mechanic fixed the car .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mechanic",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the mechanic who fixed the car .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "mechanic",
+            "who",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef cooked the meal .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "cooked",
+            "the",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the chef who cooked the meal .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "chef",
+            "who",
+            "cooked",
+            "the",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The girl found the key .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the girl who found the key .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "girl",
+            "who",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The athlete won the race .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "won",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the athlete who won the race .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "athlete",
+            "who",
+            "won",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The farmer harvested the crops .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "farmer",
+            "harvested",
+            "the",
+            "crops",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the farmer who harvested the crops .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "farmer",
+            "who",
+            "harvested",
+            "the",
+            "crops",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The actor delivered the line .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "actor",
+            "delivered",
+            "the",
+            "line",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the actor who delivered the line .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "actor",
+            "who",
+            "delivered",
+            "the",
+            "line",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The officer caught the thief .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "officer",
+            "caught",
+            "the",
+            "thief",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the officer who caught the thief .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "officer",
+            "who",
+            "caught",
+            "the",
+            "thief",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The musician played the instrument .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "played",
+            "the",
+            "instrument",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the musician who played the instrument .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "musician",
+            "who",
+            "played",
+            "the",
+            "instrument",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Olivia baked the cookies .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Olivia",
+            "baked",
+            "the",
+            "cookies",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Olivia who baked the cookies .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Olivia",
+            "who",
+            "baked",
+            "the",
+            "cookies",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Lucas solved the puzzle .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Lucas",
+            "solved",
+            "the",
+            "puzzle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Lucas who solved the puzzle .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Lucas",
+            "who",
+            "solved",
+            "the",
+            "puzzle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Emma wrote the letter .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Emma",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Emma who wrote the letter .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Emma",
+            "who",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Aiden built the tower .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Aiden",
+            "built",
+            "the",
+            "tower",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Aiden who built the tower .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Aiden",
+            "who",
+            "built",
+            "the",
+            "tower",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Sophie read the book .",
+                "tags": [
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Sophie",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Sophie who read the book .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Sophie",
+            "who",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "William fixed the computer .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "William",
+            "fixed",
+            "the",
+            "computer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was William who fixed the computer .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "William",
+            "who",
+            "fixed",
+            "the",
+            "computer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Grace painted the picture .",
+                "tags": [
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Grace",
+            "painted",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Grace who painted the picture .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Grace",
+            "who",
+            "painted",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Owen planted the garden .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Owen",
+            "planted",
+            "the",
+            "garden",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Owen who planted the garden .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Owen",
+            "who",
+            "planted",
+            "the",
+            "garden",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Lily drew the picture .",
+                "tags": [
+                    "ARGM-TMP",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Lily",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Lily who drew the picture .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Lily",
+            "who",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Benjamin caught the ball .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Benjamin",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Benjamin who caught the ball .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Benjamin",
+            "who",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Ella sang the song .",
+                "tags": [
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Ella",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Ella who sang the song .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Ella",
+            "who",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Michael played the guitar .",
+                "tags": [
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Michael",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was Michael who played the guitar .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Michael",
+            "who",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The photographer took the picture .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "photographer",
+            "took",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the photographer who took the picture .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "photographer",
+            "who",
+            "took",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The team won the game .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "team",
+            "won",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the team who won the game .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "team",
+            "who",
+            "won",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The gardener watered the plants .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "gardener",
+            "watered",
+            "the",
+            "plants",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the gardener who watered the plants .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "gardener",
+            "who",
+            "watered",
+            "the",
+            "plants",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The singer sang the song .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the singer who sang the song .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "singer",
+            "who",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child drew the picture .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the child who drew the picture .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "child",
+            "who",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The captain piloted the plane .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "captain",
+            "piloted",
+            "the",
+            "plane",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the captain who piloted the plane .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "captain",
+            "who",
+            "piloted",
+            "the",
+            "plane",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The artist created a sculpture .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "created",
+            "a",
+            "sculpture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the artist who created a sculpture .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "artist",
+            "who",
+            "created",
+            "a",
+            "sculpture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy found the treasure .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "found",
+            "the",
+            "treasure",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the boy who found the treasure .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "boy",
+            "who",
+            "found",
+            "the",
+            "treasure",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The writer wrote the book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "writer",
+            "wrote",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the writer who wrote the book .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "writer",
+            "who",
+            "wrote",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The scientist discovered a planet .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "discovered",
+            "a",
+            "planet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the scientist who discovered a planet .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "scientist",
+            "who",
+            "discovered",
+            "a",
+            "planet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The model wore the dress .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "model",
+            "wore",
+            "the",
+            "dress",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the model who wore the dress .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "model",
+            "who",
+            "wore",
+            "the",
+            "dress",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The child ate the candy .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ate",
+            "the",
+            "candy",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the child who ate the candy .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "child",
+            "who",
+            "ate",
+            "the",
+            "candy",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The engineer designed the building .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engineer",
+            "designed",
+            "the",
+            "building",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "It was the engineer who designed the building .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "R-ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "engineer",
+            "who",
+            "designed",
+            "the",
+            "building",
+            "."
+        ]
+    }
+]

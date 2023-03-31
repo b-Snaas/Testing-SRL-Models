@@ -1,0 +1,2678 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The teacher taught the students a lesson .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "taught",
+            "the",
+            "students",
+            "a",
+            "lesson",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The teacher taught a lesson to the students .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "taught",
+            "a",
+            "lesson",
+            "to",
+            "the",
+            "students",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She handed him the keys .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "him",
+            "the",
+            "keys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She handed the keys to him .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "the",
+            "keys",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The author sent the publisher a manuscript .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "author",
+            "sent",
+            "the",
+            "publisher",
+            "a",
+            "manuscript",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The author sent a manuscript to the publisher .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "author",
+            "sent",
+            "a",
+            "manuscript",
+            "to",
+            "the",
+            "publisher",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company offered her a promotion .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "offered",
+            "her",
+            "a",
+            "promotion",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company offered a promotion to her .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "offered",
+            "a",
+            "promotion",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The magician gave the child a balloon .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "magician",
+            "gave",
+            "the",
+            "child",
+            "a",
+            "balloon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The magician gave a balloon to the child .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "magician",
+            "gave",
+            "a",
+            "balloon",
+            "to",
+            "the",
+            "child",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The manager assigned them a task .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "manager",
+            "assigned",
+            "them",
+            "a",
+            "task",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The manager assigned a task to them .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "manager",
+            "assigned",
+            "a",
+            "task",
+            "to",
+            "them",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The scientist explained the students a concept .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "explained",
+            "the",
+            "students",
+            "a",
+            "concept",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The scientist explained a concept to the students .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "explained",
+            "a",
+            "concept",
+            "to",
+            "the",
+            "students",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The nurse read the patient a story .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "nurse",
+            "read",
+            "the",
+            "patient",
+            "a",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The nurse read a story to the patient .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "nurse",
+            "read",
+            "a",
+            "story",
+            "to",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "John lent Mary his car .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "lent",
+            "Mary",
+            "his",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "John lent his car to Mary .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "lent",
+            "his",
+            "car",
+            "to",
+            "Mary",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The charity donated the school supplies .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "charity",
+            "donated",
+            "the",
+            "school",
+            "supplies",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The charity donated supplies to the school .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "charity",
+            "donated",
+            "supplies",
+            "to",
+            "the",
+            "school",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef served the guests dinner .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "the",
+            "guests",
+            "dinner",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef served dinner to the guests .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "dinner",
+            "to",
+            "the",
+            "guests",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company provided the employees training .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "provided",
+            "the",
+            "employees",
+            "training",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company provided training to the employees .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "provided",
+            "training",
+            "to",
+            "the",
+            "employees",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The librarian recommended the students a book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "librarian",
+            "recommended",
+            "the",
+            "students",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The librarian recommended a book to the students .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "librarian",
+            "recommended",
+            "a",
+            "book",
+            "to",
+            "the",
+            "students",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The bank granted him a loan .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bank",
+            "granted",
+            "him",
+            "a",
+            "loan",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The bank granted a loan to him .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bank",
+            "granted",
+            "a",
+            "loan",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The politician promised the voters change .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "promised",
+            "the",
+            "voters",
+            "change",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The politician promised change to the voters .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "promised",
+            "change",
+            "to",
+            "the",
+            "voters",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She handed the cashier the money .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "the",
+            "cashier",
+            "the",
+            "money",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She handed the money to the cashier .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "the",
+            "money",
+            "to",
+            "the",
+            "cashier",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The supervisor gave the employees feedback .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "supervisor",
+            "gave",
+            "the",
+            "employees",
+            "feedback",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The supervisor gave feedback to the employees .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "supervisor",
+            "gave",
+            "feedback",
+            "to",
+            "the",
+            "employees",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She taught the children a song .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "taught",
+            "the",
+            "children",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She taught a song to the children .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "taught",
+            "a",
+            "song",
+            "to",
+            "the",
+            "children",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He told her a secret .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "told",
+            "her",
+            "a",
+            "secret",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He told a secret to her .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "told",
+            "a",
+            "secret",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef served the guests a meal .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "the",
+            "guests",
+            "a",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef served a meal to the guests .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "served",
+            "a",
+            "meal",
+            "to",
+            "the",
+            "guests",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The mother handed the child a toy .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mother",
+            "handed",
+            "the",
+            "child",
+            "a",
+            "toy",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The mother handed a toy to the child .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mother",
+            "handed",
+            "a",
+            "toy",
+            "to",
+            "the",
+            "child",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The baker sold the customer a cake .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baker",
+            "sold",
+            "the",
+            "customer",
+            "a",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The baker sold a cake to the customer .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baker",
+            "sold",
+            "a",
+            "cake",
+            "to",
+            "the",
+            "customer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The pharmacist gave the patient medication .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "pharmacist",
+            "gave",
+            "the",
+            "patient",
+            "medication",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The pharmacist gave medication to the patient .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "pharmacist",
+            "gave",
+            "medication",
+            "to",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Lisa gave Tom advice .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Lisa",
+            "gave",
+            "Tom",
+            "advice",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Lisa gave advice to Tom .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Lisa",
+            "gave",
+            "advice",
+            "to",
+            "Tom",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Rebecca handed Sam a note .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Rebecca",
+            "handed",
+            "Sam",
+            "a",
+            "note",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Rebecca handed a note to Sam .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Rebecca",
+            "handed",
+            "a",
+            "note",
+            "to",
+            "Sam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Michael sold Olivia a bicycle .",
+                "tags": [
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Michael",
+            "sold",
+            "Olivia",
+            "a",
+            "bicycle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Michael sold a bicycle to Olivia .",
+                "tags": [
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Michael",
+            "sold",
+            "a",
+            "bicycle",
+            "to",
+            "Olivia",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Nicole offered Adam a ride .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Nicole",
+            "offered",
+            "Adam",
+            "a",
+            "ride",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Nicole offered a ride to Adam .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Nicole",
+            "offered",
+            "a",
+            "ride",
+            "to",
+            "Adam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Justin sent Rachel a message .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Justin",
+            "sent",
+            "Rachel",
+            "a",
+            "message",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Justin sent a message to Rachel .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Justin",
+            "sent",
+            "a",
+            "message",
+            "to",
+            "Rachel",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Benjamin showed Mia a trick .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Benjamin",
+            "showed",
+            "Mia",
+            "a",
+            "trick",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Benjamin showed a trick to Mia .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Benjamin",
+            "showed",
+            "a",
+            "trick",
+            "to",
+            "Mia",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Ava gave Jacob tips .",
+                "tags": [
+                    "ARGM-DIS",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Ava",
+            "gave",
+            "Jacob",
+            "tips",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Ava gave tips to Jacob .",
+                "tags": [
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Ava",
+            "gave",
+            "tips",
+            "to",
+            "Jacob",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Sofia sold Charlie a guitar .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Sofia",
+            "sold",
+            "Charlie",
+            "a",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Sofia sold a guitar to Charlie .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Sofia",
+            "sold",
+            "a",
+            "guitar",
+            "to",
+            "Charlie",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Alexander passed Lily a flyer .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Alexander",
+            "passed",
+            "Lily",
+            "a",
+            "flyer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Alexander passed a flyer to Lily .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Alexander",
+            "passed",
+            "a",
+            "flyer",
+            "to",
+            "Lily",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The guide gave the tourists a map .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "guide",
+            "gave",
+            "the",
+            "tourists",
+            "a",
+            "map",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The guide gave a map to the tourists .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "guide",
+            "gave",
+            "a",
+            "map",
+            "to",
+            "the",
+            "tourists",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The artist gave the collector a painting .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "gave",
+            "the",
+            "collector",
+            "a",
+            "painting",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The artist gave a painting to the collector .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "gave",
+            "a",
+            "painting",
+            "to",
+            "the",
+            "collector",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The shopkeeper handed the shopper a bag .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "shopkeeper",
+            "handed",
+            "the",
+            "shopper",
+            "a",
+            "bag",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The shopkeeper handed a bag to the shopper .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "shopkeeper",
+            "handed",
+            "a",
+            "bag",
+            "to",
+            "the",
+            "shopper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The host offered the guest a drink .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "host",
+            "offered",
+            "the",
+            "guest",
+            "a",
+            "drink",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The host offered a drink to the guest .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "host",
+            "offered",
+            "a",
+            "drink",
+            "to",
+            "the",
+            "guest",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The traveler showed the locals photos .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "traveler",
+            "showed",
+            "the",
+            "locals",
+            "photos",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The traveler showed photos to the locals .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "traveler",
+            "showed",
+            "photos",
+            "to",
+            "the",
+            "locals",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The stylist recommended the client a haircut .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "stylist",
+            "recommended",
+            "the",
+            "client",
+            "a",
+            "haircut",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The stylist recommended a haircut to the client .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "stylist",
+            "recommended",
+            "a",
+            "haircut",
+            "to",
+            "the",
+            "client",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The landlord handed the tenant the keys .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "landlord",
+            "handed",
+            "the",
+            "tenant",
+            "the",
+            "keys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The landlord handed the keys to the tenant .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "landlord",
+            "handed",
+            "the",
+            "keys",
+            "to",
+            "the",
+            "tenant",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He gave her a bouquet .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "her",
+            "a",
+            "bouquet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He gave a bouquet to her .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "a",
+            "bouquet",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She showed him her watch .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "showed",
+            "him",
+            "her",
+            "watch",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She showed her watch to him .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "showed",
+            "her",
+            "watch",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He taught her a trick .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "taught",
+            "her",
+            "a",
+            "trick",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He taught a trick to her .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "taught",
+            "a",
+            "trick",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She handed him a letter .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "him",
+            "a",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She handed a letter to him .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "handed",
+            "a",
+            "letter",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He offered her a ride .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "offered",
+            "her",
+            "a",
+            "ride",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He offered a ride to her .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "offered",
+            "a",
+            "ride",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She sent him an invitation .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "sent",
+            "him",
+            "an",
+            "invitation",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "She sent an invitation to him .",
+                "tags": [
+                    "ARG1",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "sent",
+            "an",
+            "invitation",
+            "to",
+            "him",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He gave her a tip .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "her",
+            "a",
+            "tip",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "He gave a tip to her .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "gave",
+            "a",
+            "tip",
+            "to",
+            "her",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Kyle sent Madison an email .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Kyle",
+            "sent",
+            "Madison",
+            "an",
+            "email",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Kyle sent an email to Madison .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Kyle",
+            "sent",
+            "an",
+            "email",
+            "to",
+            "Madison",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Ethan sold Zoe a camera .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Ethan",
+            "sold",
+            "Zoe",
+            "a",
+            "camera",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Ethan sold a camera to Zoe .",
+                "tags": [
+                    "ARG0",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Ethan",
+            "sold",
+            "a",
+            "camera",
+            "to",
+            "Zoe",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The volunteer read the children a story .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "volunteer",
+            "read",
+            "the",
+            "children",
+            "a",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The volunteer read a story to the children .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "volunteer",
+            "read",
+            "a",
+            "story",
+            "to",
+            "the",
+            "children",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The mayor presented the hero the award .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mayor",
+            "presented",
+            "the",
+            "hero",
+            "the",
+            "award",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The mayor presented the award to the hero .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mayor",
+            "presented",
+            "the",
+            "award",
+            "to",
+            "the",
+            "hero",
+            "."
+        ]
+    }
+]

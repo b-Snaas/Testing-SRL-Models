@@ -1,0 +1,2460 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The cat chased the mouse .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "cat",
+            "chased",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the cat chase the mouse .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "cat",
+            "chase",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The girl ate the pizza .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "ate",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the girl eat the pizza .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "girl",
+            "eat",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The car hit the tree .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "car",
+            "hit",
+            "the",
+            "tree",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the car hit the tree .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "car",
+            "hit",
+            "the",
+            "tree",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The boy kicked the ball .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "kicked",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the boy kick the ball .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "boy",
+            "kick",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The dog chased the cat .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the dog chase the cat .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "dog",
+            "chase",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The teacher gave the students an assignment .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "gave",
+            "the",
+            "students",
+            "an",
+            "assignment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the teacher give the students an assignment .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "teacher",
+            "give",
+            "the",
+            "students",
+            "an",
+            "assignment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The man fixed the faucet .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "fixed",
+            "the",
+            "faucet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the man fix the faucet .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "man",
+            "fix",
+            "the",
+            "faucet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The doctor examined the patient .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "doctor",
+            "examined",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the doctor examine the patient .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "doctor",
+            "examine",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The singer performed a song .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "performed",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the singer perform a song .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "singer",
+            "perform",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company launched a product .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "launched",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the company launch a product .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "launch",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The athlete broke the record .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "broke",
+            "the",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the athlete break the record .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "athlete",
+            "break",
+            "the",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The student wrote a paper .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "wrote",
+            "a",
+            "paper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the student write a paper .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "student",
+            "write",
+            "a",
+            "paper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The painter created a landscape .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "painter",
+            "created",
+            "a",
+            "landscape",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the painter create a landscape .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "painter",
+            "create",
+            "a",
+            "landscape",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The politician delivered a speech .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "delivered",
+            "a",
+            "speech",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the politician deliver a speech .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "politician",
+            "deliver",
+            "a",
+            "speech",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The scientist conducted an experiment .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "conducted",
+            "an",
+            "experiment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the scientist conduct an experiment .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "scientist",
+            "conduct",
+            "an",
+            "experiment",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The artist painted a portrait .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "painted",
+            "a",
+            "portrait",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the artist paint a portrait .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "artist",
+            "paint",
+            "a",
+            "portrait",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The manager hired a employee .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "manager",
+            "hired",
+            "a",
+            "employee",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the manager hire a employee .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "manager",
+            "hire",
+            "a",
+            "employee",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The customer purchased a product .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "customer",
+            "purchased",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the customer purchase a product .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "customer",
+            "purchase",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The musician composed a song .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "composed",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the musician compose a song .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "musician",
+            "compose",
+            "a",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company released a update .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "released",
+            "a",
+            "update",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the company release a update .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "release",
+            "a",
+            "update",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The driver crashed the car .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "crashed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the driver crash the car .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "driver",
+            "crash",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef cooked a meal .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "cooked",
+            "a",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the chef cook a meal .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "chef",
+            "cook",
+            "a",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The doctor prescribed medication .",
+                "tags": [
+                    "O",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "doctor",
+            "prescribed",
+            "medication",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the doctor prescribe medication .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "doctor",
+            "prescribe",
+            "medication",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The singer performed a duet .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "performed",
+            "a",
+            "duet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the singer perform a duet .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "singer",
+            "perform",
+            "a",
+            "duet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The team won the championship .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "team",
+            "won",
+            "the",
+            "championship",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the team win the championship .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "team",
+            "win",
+            "the",
+            "championship",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The actor played a role .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "actor",
+            "played",
+            "a",
+            "role",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the actor play a role .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "actor",
+            "play",
+            "a",
+            "role",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The writer published a book .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "writer",
+            "published",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the writer publish a book .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "writer",
+            "publish",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The teacher graded the assignments .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "graded",
+            "the",
+            "assignments",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the teacher grade the assignments .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "teacher",
+            "grade",
+            "the",
+            "assignments",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company acquired a business .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "acquired",
+            "a",
+            "business",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the company acquire a business .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "acquire",
+            "a",
+            "business",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The athlete won a medal .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "won",
+            "a",
+            "medal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the athlete win a medal .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "athlete",
+            "win",
+            "a",
+            "medal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The customer returned the product .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "customer",
+            "returned",
+            "the",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the customer return the product .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "customer",
+            "return",
+            "the",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The student passed the exam .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "passed",
+            "the",
+            "exam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the student pass the exam .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "student",
+            "pass",
+            "the",
+            "exam",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The artist sculpted a statue .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "sculpted",
+            "a",
+            "statue",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the artist sculpt a statue .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "artist",
+            "sculpt",
+            "a",
+            "statue",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The politician proposed a law .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "politician",
+            "proposed",
+            "a",
+            "law",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the politician propose a law .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "politician",
+            "propose",
+            "a",
+            "law",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The engineer designed a product .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engineer",
+            "designed",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the engineer design a product .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "engineer",
+            "design",
+            "a",
+            "product",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The scientist discovered a species .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "discovered",
+            "a",
+            "species",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the scientist discover a species .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "scientist",
+            "discover",
+            "a",
+            "species",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The musician performed a solo .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "performed",
+            "a",
+            "solo",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the musician perform a solo .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "musician",
+            "perform",
+            "a",
+            "solo",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company announced a feature .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "announced",
+            "a",
+            "feature",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the company announce a feature .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "announce",
+            "a",
+            "feature",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The driver fixed the tire .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "fixed",
+            "the",
+            "tire",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the driver fix the tire .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "driver",
+            "fix",
+            "the",
+            "tire",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The chef baked a cake .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "baked",
+            "a",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the chef bake a cake .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "chef",
+            "bake",
+            "a",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The doctor performed a surgery .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "doctor",
+            "performed",
+            "a",
+            "surgery",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the doctor perform a surgery .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "doctor",
+            "perform",
+            "a",
+            "surgery",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The singer recorded an album .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "recorded",
+            "an",
+            "album",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the singer record an album .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "singer",
+            "record",
+            "an",
+            "album",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The team lost the game .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "team",
+            "lost",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the team lose the game .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "team",
+            "lose",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The actor received an award .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "actor",
+            "received",
+            "an",
+            "award",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the actor receive an award .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "actor",
+            "receive",
+            "an",
+            "award",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The writer wrote a screenplay .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "writer",
+            "wrote",
+            "a",
+            "screenplay",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the writer write a screenplay .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "writer",
+            "write",
+            "a",
+            "screenplay",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The teacher lectured on a topic .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "lectured",
+            "on",
+            "a",
+            "topic",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the teacher lecture on a topic .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "teacher",
+            "lecture",
+            "on",
+            "a",
+            "topic",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The company launched a campaign .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "company",
+            "launched",
+            "a",
+            "campaign",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the company launch a campaign .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "company",
+            "launch",
+            "a",
+            "campaign",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The athlete set a record .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "set",
+            "a",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the athlete set a record .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "athlete",
+            "set",
+            "a",
+            "record",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "The customer placed an order .",
+                "tags": [
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "customer",
+            "placed",
+            "an",
+            "order",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "generic",
+                "description": "Did the customer place an order .",
+                "tags": [
+                    "V",
+                    "O",
+                    "V",
+                    "V",
+                    "O",
+                    "V",
+                    "V"
+                ]
+            }
+        ],
+        "words": [
+            "Did",
+            "the",
+            "customer",
+            "place",
+            "an",
+            "order",
+            "."
+        ]
+    }
+]

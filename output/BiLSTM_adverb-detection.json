@@ -1,0 +1,2484 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "sang",
+                "description": "[ARG0: She] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sang",
+                "description": "[ARG0: She] [ARGM-MNR: beautifully] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "beautifully",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drove",
+                "description": "[ARG0: He] [V: drove] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drove",
+                "description": "[ARG0: He] [ARGM-MNR: carefully] [V: drove] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "carefully",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: They] [V: ate] [ARG1: pizza] [ARGM-PRP: for dinner] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARGM-PRP",
+                    "I-ARGM-PRP",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "They",
+            "ate",
+            "pizza",
+            "for",
+            "dinner",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: They] [ARGM-MNR: happily] [V: ate] [ARG1: pizza] [ARGM-PNC: for dinner] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "B-ARGM-PNC",
+                    "I-ARGM-PNC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "They",
+            "happily",
+            "ate",
+            "pizza",
+            "for",
+            "dinner",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The boy] [V: read] [ARG1: the book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The boy] [ARGM-MNR: enthusiastically] [V: read] [ARG1: the book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "enthusiastically",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The girl] [V: played] [ARG1: with the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The girl] [ARGM-MNR: happily] [V: played] [ARG1: with the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "happily",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "hit",
+                "description": "[ARG0: The boy] [V: hit] [ARG1: the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "hit",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "hit",
+                "description": "[ARG0: The boy] [ARGM-MNR: skillfully] [V: hit] [ARG1: the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "skillfully",
+            "hit",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "walked",
+                "description": "[ARG0: She] [V: walked] [ARGM-DIR: to the park] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARGM-DIR",
+                    "I-ARGM-DIR",
+                    "I-ARGM-DIR",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "walked",
+            "to",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "walked",
+                "description": "[ARG0: She] [ARGM-MNR: slowly] [V: walked] [ARGM-DIR: to the park] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-DIR",
+                    "I-ARGM-DIR",
+                    "I-ARGM-DIR",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "slowly",
+            "walked",
+            "to",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: He] [V: wrote] [ARG1: a letter] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "wrote",
+            "a",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: He thoughtfully] [V: wrote] [ARG1: a letter] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "thoughtfully",
+            "wrote",
+            "a",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "danced",
+                "description": "[ARG0: The woman] [V: danced] [ARGM-LOC: at the party] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "danced",
+            "at",
+            "the",
+            "party",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "danced",
+                "description": "[ARG0: The woman] [ARGM-MNR: gracefully] [V: danced] [ARGM-LOC: at the party] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "gracefully",
+            "danced",
+            "at",
+            "the",
+            "party",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: The man] [V: fixed] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: The man] [ARGM-MNR: meticulously] [V: fixed] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "meticulously",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "chased",
+                "description": "[ARG0: The dog] [V: chased] [ARG1: the cat] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "chased",
+                "description": "[ARG0: The dog] [ARGM-MNR: eagerly] [V: chased] [ARG1: the cat] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "eagerly",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cried",
+                "description": "[ARG0: The baby] [V: cried] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baby",
+            "cried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cried",
+                "description": "[ARG0: The baby] [ARGM-MNR: loudly] [V: cried] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baby",
+            "loudly",
+            "cried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "lifted",
+                "description": "[ARG0: The man] [V: lifted] [ARG1: the weights] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "lifted",
+            "the",
+            "weights",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "lifted",
+                "description": "[ARG0: The man] [ARGM-MNR: effortlessly] [V: lifted] [ARG1: the weights] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "effortlessly",
+            "lifted",
+            "the",
+            "weights",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "watched",
+                "description": "[ARG0: The children] [V: watched] [ARG1: a movie] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "watched",
+            "a",
+            "movie",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "watched",
+                "description": "[ARG0: The children excitedly] [V: watched] [ARG1: a movie] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "excitedly",
+            "watched",
+            "a",
+            "movie",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The musician] [V: played] [ARG1: the guitar] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The musician] [ARGM-MNR: passionately] [V: played] [ARG1: the guitar] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "passionately",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The woman] [V: read] [ARG1: a book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "read",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The woman] [ARGM-MNR: avidly] [V: read] [ARG1: a book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "avidly",
+            "read",
+            "a",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The athlete] [V: ran] [ARG1: the race] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The athlete] [ARGM-MNR: competitively] [V: ran] [ARG1: the race] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "competitively",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "caught",
+                "description": "[ARG0: The boy] [V: caught] [ARG1: the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "caught",
+                "description": "[ARG0: The boy] [ARGM-MNR: skillfully] [V: caught] [ARG1: the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "skillfully",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: The woman] [V: taught] [ARG1: the class] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "taught",
+            "the",
+            "class",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "taught",
+                "description": "[ARG0: The woman] [ARGM-MNR: enthusiastically] [V: taught] [ARG1: the class] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "enthusiastically",
+            "taught",
+            "the",
+            "class",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The children] [V: played] [ARG1: with the toys] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "played",
+            "with",
+            "the",
+            "toys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The children] [ARGM-MNR: happily] [V: played] [ARG1: with the toys] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "children",
+            "happily",
+            "played",
+            "with",
+            "the",
+            "toys",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The woman] [V: ran] [ARG1: the marathon] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "ran",
+            "the",
+            "marathon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The woman] [ARGM-MNR: successfully] [V: ran] [ARG1: the marathon] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "successfully",
+            "ran",
+            "the",
+            "marathon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "painted",
+                "description": "[ARG0: The man] [V: painted] [ARG1: the wall] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "painted",
+            "the",
+            "wall",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "painted",
+                "description": "[ARG0: The man] [ARGM-MNR: carefully] [V: painted] [ARG1: the wall] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "carefully",
+            "painted",
+            "the",
+            "wall",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "spoke",
+                "description": "[ARG0: The man] [V: spoke] [ARGM-LOC: on the phone] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "spoke",
+            "on",
+            "the",
+            "phone",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "spoke",
+                "description": "[ARG0: The man] [ARGM-MNR: impatiently] [V: spoke] [ARGM-LOC: on the phone] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "impatiently",
+            "spoke",
+            "on",
+            "the",
+            "phone",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The child] [V: ran] [ARGM-LOC: in the park] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The child] [ARGM-MNR: happily] [V: ran] [ARGM-LOC: in the park] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "happily",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "typed",
+                "description": "[ARG0: The woman] [V: typed] [ARG1: the report] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "typed",
+            "the",
+            "report",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "typed",
+                "description": "[ARG0: The woman] [ARGM-MNR: quickly] [V: typed] [ARG1: the report] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "quickly",
+            "typed",
+            "the",
+            "report",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sat",
+                "description": "[ARG1: The man] [V: sat] [ARG2: on the chair] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "sat",
+            "on",
+            "the",
+            "chair",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sat",
+                "description": "[ARG1: The man] [ARGM-MNR: comfortably] [V: sat] [ARG2: on the chair] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "comfortably",
+            "sat",
+            "on",
+            "the",
+            "chair",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The man] [V: read] [ARG1: the book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: The man] [ARGM-MNR: avidly] [V: read] [ARG1: the book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "avidly",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "danced",
+                "description": "[ARG0: The woman] [V: danced] [ARGM-LOC: on the stage] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "danced",
+            "on",
+            "the",
+            "stage",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "danced",
+                "description": "[ARG0: The woman] [ARGM-MNR: gracefully] [V: danced] [ARGM-LOC: on the stage] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "gracefully",
+            "danced",
+            "on",
+            "the",
+            "stage",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The man] [V: wrote] [ARG1: the letter] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The man thoughtfully] [V: wrote] [ARG1: the letter] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "thoughtfully",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The child] [V: played] [ARG1: with the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The child] [ARGM-MNR: energetically] [V: played] [ARG1: with the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "energetically",
+            "played",
+            "with",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sang",
+                "description": "[ARG0: The woman] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sang",
+                "description": "[ARG0: The woman] [ARGM-MNR: passionately] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "passionately",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drove",
+                "description": "[ARG0: The man] [V: drove] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drove",
+                "description": "[ARG0: The man] [ARGM-MNR: carefully] [V: drove] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "carefully",
+            "drove",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drew",
+                "description": "[ARG0: The child] [V: drew] [ARG1: the picture] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drew",
+                "description": "[ARG0: The child creatively] [V: drew] [ARG1: the picture] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "creatively",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "climbed",
+                "description": "[ARG0: The woman] [V: climbed] [ARG1: the stairs] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "climbed",
+            "the",
+            "stairs",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "climbed",
+                "description": "[ARG0: The woman] [ARGM-MNR: slowly] [V: climbed] [ARG1: the stairs] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "slowly",
+            "climbed",
+            "the",
+            "stairs",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The man] [V: played] [ARG1: the game] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "played",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The man] [ARGM-MNR: competitively] [V: played] [ARG1: the game] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "competitively",
+            "played",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: The child] [V: ate] [ARG1: the pizza] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ate",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: The child] [ARGM-MNR: eagerly] [V: ate] [ARG1: the pizza] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "eagerly",
+            "ate",
+            "the",
+            "pizza",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The woman] [V: ran] [ARG1: the race] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The woman] [ARGM-MNR: confidently] [V: ran] [ARG1: the race] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "confidently",
+            "ran",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: The man] [V: fixed] [ARG1: the bike] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "fixed",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: The man] [ARGM-MNR: skillfully] [V: fixed] [ARG1: the bike] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "skillfully",
+            "fixed",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "watched",
+                "description": "[ARG0: The child] [V: watched] [ARG1: the TV] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "watched",
+            "the",
+            "TV",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "watched",
+                "description": "[ARG0: The child excitedly] [V: watched] [ARG1: the TV] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "excitedly",
+            "watched",
+            "the",
+            "TV",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The woman] [V: wrote] [ARG1: the story] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "wrote",
+            "the",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The woman imaginatively] [V: wrote] [ARG1: the story] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "imaginatively",
+            "wrote",
+            "the",
+            "story",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The man] [V: played] [ARG1: the guitar] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The man] [ARGM-MNR: passionately] [V: played] [ARG1: the guitar] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "passionately",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The man] [V: played] [ARG1: with the dog] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "played",
+            "with",
+            "the",
+            "dog",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The man] [ARGM-MNR: happily] [V: played] [ARG1: with the dog] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "happily",
+            "played",
+            "with",
+            "the",
+            "dog",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: The child] [V: ate] [ARG1: the sandwich] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ate",
+            "the",
+            "sandwich",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: The child hungrily] [V: ate] [ARG1: the sandwich] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "hungrily",
+            "ate",
+            "the",
+            "sandwich",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The woman] [V: wrote] [ARG1: the script] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "wrote",
+            "the",
+            "script",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The woman creatively] [V: wrote] [ARG1: the script] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "creatively",
+            "wrote",
+            "the",
+            "script",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The man] [V: ran] [ARGM-LOC: in the park] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ran",
+                "description": "[ARG0: The man] [ARGM-MNR: energetically] [V: ran] [ARGM-LOC: in the park] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "energetically",
+            "ran",
+            "in",
+            "the",
+            "park",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The child] [V: played] [ARG1: with the blocks] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "played",
+            "with",
+            "the",
+            "blocks",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The child imaginatively] [V: played] [ARG1: with the blocks] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "imaginatively",
+            "played",
+            "with",
+            "the",
+            "blocks",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "danced",
+                "description": "[ARG0: The woman] [V: danced] [ARGM-LOC: in the studio] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "danced",
+            "in",
+            "the",
+            "studio",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "danced",
+                "description": "[ARG0: The woman] [ARGM-MNR: gracefully] [V: danced] [ARGM-LOC: in the studio] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "woman",
+            "gracefully",
+            "danced",
+            "in",
+            "the",
+            "studio",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "spoke",
+                "description": "[ARG0: The man] [V: spoke] [ARGM-LOC: at the meeting] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "spoke",
+            "at",
+            "the",
+            "meeting",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "spoke",
+                "description": "[ARG0: The man] [ARGM-MNR: confidently] [V: spoke] [ARGM-LOC: at the meeting] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-ARGM-MNR",
+                    "B-V",
+                    "B-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "I-ARGM-LOC",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "man",
+            "confidently",
+            "spoke",
+            "at",
+            "the",
+            "meeting",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "rode",
+                "description": "[ARG0: The child] [V: rode] [ARG1: the bike] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "rode",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "rode",
+                "description": "[ARG0: The child fearlessly] [V: rode] [ARG1: the bike] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "fearlessly",
+            "rode",
+            "the",
+            "bike",
+            "."
+        ]
+    }
+]

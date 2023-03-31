@@ -1,0 +1,3160 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "bought",
+                "description": "[ARG0: John] [V: bought] [ARG1: the bike] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "bought",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: John] [ARGM-PRD: who bought the bike] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "bought",
+                "description": "It was [ARG0: John] [R-ARG0: who] [V: bought] [ARG1: the bike] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "John",
+            "who",
+            "bought",
+            "the",
+            "bike",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "made",
+                "description": "[ARG0: Maria] [V: made] [ARG1: the cake] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Maria",
+            "made",
+            "the",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "is",
+                "description": "[ARG1: It] [V: is] [ARG2: Maria] [ARGM-PRD: who made the cake] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "made",
+                "description": "It is [ARG0: Maria] [R-ARG0: who] [V: made] [ARG1: the cake] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "is",
+            "Maria",
+            "who",
+            "made",
+            "the",
+            "cake",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "found",
+                "description": "[ARG0: David] [V: found] [ARG1: the key] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "David",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: David] [ARGM-PRD: who found the key] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "found",
+                "description": "It was [ARG0: David] [R-ARG0: who] [V: found] [ARG1: the key] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "David",
+            "who",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: Sarah] [V: wrote] [ARG1: the letter] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Sarah",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "is",
+                "description": "[ARG1: It] [V: is] [ARG2: Sarah] [ARGM-PRD: who wrote the letter] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "wrote",
+                "description": "It is [ARG0: Sarah] [R-ARG0: who] [V: wrote] [ARG1: the letter] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "is",
+            "Sarah",
+            "who",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: Tom] [V: fixed] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Tom",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "It [V: was] [ARG2: Tom] [ARGM-PRD: who fixed the car] .",
+                "tags": [
+                    "O",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "fixed",
+                "description": "It was [ARG0: Tom] [R-ARG0: who] [V: fixed] [ARG1: the car] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Tom",
+            "who",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "caught",
+                "description": "[ARG0: The cat] [V: caught] [ARG1: the mouse] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "cat",
+            "caught",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the cat] [ARGM-PRD: who caught the mouse] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "caught",
+                "description": "It was [ARG0: the cat] [R-ARG0: who] [V: caught] [ARG1: the mouse] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "cat",
+            "who",
+            "caught",
+            "the",
+            "mouse",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "examined",
+                "description": "[ARG0: The doctor] [V: examined] [ARG1: the patient] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "doctor",
+            "examined",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the doctor] [ARGM-PRD: who examined the patient] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "examined",
+                "description": "It was [ARG0: the doctor] [R-ARG0: who] [V: examined] [ARG1: the patient] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "doctor",
+            "who",
+            "examined",
+            "the",
+            "patient",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "broke",
+                "description": "[ARG0: The boy] [V: broke] [ARG1: the vase] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "broke",
+            "the",
+            "vase",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the boy] [ARGM-PRD: who broke the vase] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "broke",
+                "description": "It was [ARG0: the boy] [R-ARG0: who] [V: broke] [ARG1: the vase] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "boy",
+            "who",
+            "broke",
+            "the",
+            "vase",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "performed",
+                "description": "[ARG0: The singer] [V: performed] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "performed",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the singer] [ARGM-PRD: who performed the song] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "performed",
+                "description": "It was [ARG0: the singer] [R-ARG0: who] [V: performed] [ARG1: the song] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "singer",
+            "who",
+            "performed",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "explained",
+                "description": "[ARG0: The teacher] [V: explained] [ARG1: the lesson] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "teacher",
+            "explained",
+            "the",
+            "lesson",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the teacher] [ARGM-PRD: who explained the lesson] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "explained",
+                "description": "It was [ARG0: the teacher] [R-ARG0: who] [V: explained] [ARG1: the lesson] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "teacher",
+            "who",
+            "explained",
+            "the",
+            "lesson",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "chased",
+                "description": "[ARG0: The dog] [V: chased] [ARG1: the cat] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the dog] [ARGM-PRD: who chased the cat] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "chased",
+                "description": "It was [ARG0: the dog] [R-ARG0: who] [V: chased] [ARG1: the cat] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "dog",
+            "who",
+            "chased",
+            "the",
+            "cat",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "created",
+                "description": "[ARG0: The painter] [V: created] [ARG1: a masterpiece] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "painter",
+            "created",
+            "a",
+            "masterpiece",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "It [V: was] [ARG2: the painter] [ARGM-PRD: who created a masterpiece] .",
+                "tags": [
+                    "O",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "description": "It was [ARG0: the painter] [R-ARG0: who] [V: created] [ARG1: a masterpiece] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "painter",
+            "who",
+            "created",
+            "a",
+            "masterpiece",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "brought",
+                "description": "[ARG0: The waiter] [V: brought] [ARG1: the food] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "waiter",
+            "brought",
+            "the",
+            "food",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the waiter] [ARGM-PRD: who brought the food] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "brought",
+                "description": "It was [ARG0: the waiter] [R-ARG0: who] [V: brought] [ARG1: the food] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "waiter",
+            "who",
+            "brought",
+            "the",
+            "food",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "answered",
+                "description": "[ARG0: The student] [V: answered] [ARG1: the question] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "answered",
+            "the",
+            "question",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the student] [ARGM-PRD: who answered the question] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "answered",
+                "description": "It was [ARG0: the student] [R-ARG0: who] [V: answered] [ARG1: the question] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "student",
+            "who",
+            "answered",
+            "the",
+            "question",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: The mechanic] [V: fixed] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mechanic",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "It [V: was] [ARG2: the mechanic] [ARGM-PRD: who fixed the car] .",
+                "tags": [
+                    "O",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "fixed",
+                "description": "It was [ARG0: the mechanic] [R-ARG0: who] [V: fixed] [ARG1: the car] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "mechanic",
+            "who",
+            "fixed",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cooked",
+                "description": "[ARG0: The chef] [V: cooked] [ARG1: the meal] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "cooked",
+            "the",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the chef] [ARGM-PRD: who cooked the meal] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "cooked",
+                "description": "It was [ARG0: the chef] [R-ARG0: who] [V: cooked] [ARG1: the meal] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "chef",
+            "who",
+            "cooked",
+            "the",
+            "meal",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "found",
+                "description": "[ARG0: The girl] [V: found] [ARG1: the key] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the girl] [ARGM-PRD: who found the key] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "found",
+                "description": "It was [ARG0: the girl] [R-ARG0: who] [V: found] [ARG1: the key] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "girl",
+            "who",
+            "found",
+            "the",
+            "key",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "won",
+                "description": "[ARG0: The athlete] [V: won] [ARG1: the race] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "athlete",
+            "won",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the athlete] [ARGM-PRD: who won the race] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "won",
+                "description": "It was [ARG0: the athlete] [R-ARG0: who] [V: won] [ARG1: the race] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "athlete",
+            "who",
+            "won",
+            "the",
+            "race",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "harvested",
+                "description": "[ARG0: The farmer] [V: harvested] [ARG1: the crops] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "farmer",
+            "harvested",
+            "the",
+            "crops",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the farmer] [ARGM-PRD: who harvested the crops] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "harvested",
+                "description": "It was [ARG0: the farmer] [R-ARG0: who] [V: harvested] [ARG1: the crops] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "farmer",
+            "who",
+            "harvested",
+            "the",
+            "crops",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "delivered",
+                "description": "[ARG0: The actor] [V: delivered] [ARG1: the line] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "actor",
+            "delivered",
+            "the",
+            "line",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the actor] [ARGM-PRD: who delivered the line] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "description": "It was [ARG0: the actor] [R-ARG0: who] [V: delivered] [ARG1: the line] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "actor",
+            "who",
+            "delivered",
+            "the",
+            "line",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "caught",
+                "description": "[ARG0: The officer] [V: caught] [ARG1: the thief] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "officer",
+            "caught",
+            "the",
+            "thief",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the officer] [ARGM-PRD: who caught the thief] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "caught",
+                "description": "It was [ARG0: the officer] [R-ARG0: who] [V: caught] [ARG1: the thief] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "officer",
+            "who",
+            "caught",
+            "the",
+            "thief",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: The musician] [V: played] [ARG1: the instrument] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "musician",
+            "played",
+            "the",
+            "instrument",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the musician] [ARGM-PRD: who played the instrument] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "played",
+                "description": "It was [ARG0: the musician] [R-ARG0: who] [V: played] [ARG1: the instrument] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "musician",
+            "who",
+            "played",
+            "the",
+            "instrument",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "baked",
+                "description": "[ARG0: Olivia] [V: baked] [ARG1: the cookies] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Olivia",
+            "baked",
+            "the",
+            "cookies",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "It [V: was] [ARG2: Olivia] [ARGM-PRD: who baked the cookies] .",
+                "tags": [
+                    "O",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "description": "It was [ARG0: Olivia] [R-ARG0: who] [V: baked] [ARG1: the cookies] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Olivia",
+            "who",
+            "baked",
+            "the",
+            "cookies",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "solved",
+                "description": "[ARG0: Lucas] [V: solved] [ARG1: the puzzle] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Lucas",
+            "solved",
+            "the",
+            "puzzle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Lucas] [ARGM-PRD: who solved the puzzle] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "solved",
+                "description": "It was [ARG0: Lucas] [R-ARG0: who] [V: solved] [ARG1: the puzzle] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Lucas",
+            "who",
+            "solved",
+            "the",
+            "puzzle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: Emma] [V: wrote] [ARG1: the letter] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Emma",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Emma] [ARGM-PRD: who wrote the letter] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "wrote",
+                "description": "It was [ARG0: Emma] [R-ARG0: who] [V: wrote] [ARG1: the letter] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Emma",
+            "who",
+            "wrote",
+            "the",
+            "letter",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "built",
+                "description": "[ARG0: Aiden] [V: built] [ARG1: the tower] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Aiden",
+            "built",
+            "the",
+            "tower",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Aiden] [ARGM-PRD: who built the tower] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "built",
+                "description": "It was [ARG0: Aiden] [R-ARG0: who] [V: built] [ARG1: the tower] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Aiden",
+            "who",
+            "built",
+            "the",
+            "tower",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "read",
+                "description": "[ARG0: Sophie] [V: read] [ARG1: the book] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Sophie",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Sophie] [ARGM-PRD: who read the book] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "read",
+                "description": "It was [ARG0: Sophie] [R-ARG0: who] [V: read] [ARG1: the book] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Sophie",
+            "who",
+            "read",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fixed",
+                "description": "[ARG0: William] [V: fixed] [ARG1: the computer] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "William",
+            "fixed",
+            "the",
+            "computer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "It [V: was] [ARG2: William] [ARG1: who fixed the computer] .",
+                "tags": [
+                    "O",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "fixed",
+                "description": "It was [ARG0: William] [R-ARG0: who] [V: fixed] [ARG1: the computer] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "William",
+            "who",
+            "fixed",
+            "the",
+            "computer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "painted",
+                "description": "[ARG0: Grace] [V: painted] [ARG1: the picture] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Grace",
+            "painted",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Grace] [ARGM-PRD: who painted the picture] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "painted",
+                "description": "It was [ARG0: Grace] [R-ARG0: who] [V: painted] [ARG1: the picture] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Grace",
+            "who",
+            "painted",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "planted",
+                "description": "[ARG0: Owen] [V: planted] [ARG1: the garden] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Owen",
+            "planted",
+            "the",
+            "garden",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Owen] [ARGM-PRD: who planted the garden] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "planted",
+                "description": "It was [ARG0: Owen] [R-ARG0: who] [V: planted] [ARG1: the garden] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Owen",
+            "who",
+            "planted",
+            "the",
+            "garden",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drew",
+                "description": "[ARG0: Lily] [V: drew] [ARG1: the picture] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Lily",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Lily] [ARGM-PRD: who drew the picture] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "drew",
+                "description": "It was [ARG0: Lily] [R-ARG0: who] [V: drew] [ARG1: the picture] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Lily",
+            "who",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "caught",
+                "description": "[ARG0: Benjamin] [V: caught] [ARG1: the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Benjamin",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Benjamin] [ARGM-PRD: who caught the ball] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "caught",
+                "description": "It was [ARG0: Benjamin] [R-ARG0: who] [V: caught] [ARG1: the ball] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Benjamin",
+            "who",
+            "caught",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sang",
+                "description": "[ARG0: Ella] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Ella",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Ella] [ARGM-PRD: who sang the song] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "sang",
+                "description": "It was [ARG0: Ella] [R-ARG0: who] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Ella",
+            "who",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "played",
+                "description": "[ARG0: Michael] [V: played] [ARG1: the guitar] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Michael",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: Michael] [ARGM-PRD: who played the guitar] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "played",
+                "description": "It was [ARG0: Michael] [R-ARG0: who] [V: played] [ARG1: the guitar] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "Michael",
+            "who",
+            "played",
+            "the",
+            "guitar",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "took",
+                "description": "[ARG0: The photographer] [V: took] [ARG1: the picture] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "photographer",
+            "took",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the photographer] [ARGM-PRD: who took the picture] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "took",
+                "description": "It was [ARG0: the photographer] [R-ARG0: who] [V: took] [ARG1: the picture] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "photographer",
+            "who",
+            "took",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "won",
+                "description": "[ARG0: The team] [V: won] [ARG1: the game] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "team",
+            "won",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the team] [ARGM-PRD: who won the game] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "won",
+                "description": "It was [ARG0: the team] [R-ARG0: who] [V: won] [ARG1: the game] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "team",
+            "who",
+            "won",
+            "the",
+            "game",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "watered",
+                "description": "[ARG0: The gardener] [V: watered] [ARG1: the plants] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "gardener",
+            "watered",
+            "the",
+            "plants",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the gardener] [ARGM-PRD: who watered the plants] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "watered",
+                "description": "It was [ARG0: the gardener] [R-ARG0: who] [V: watered] [ARG1: the plants] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "gardener",
+            "who",
+            "watered",
+            "the",
+            "plants",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "sang",
+                "description": "[ARG0: The singer] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the singer] [ARGM-PRD: who sang the song] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "sang",
+                "description": "It was [ARG0: the singer] [R-ARG0: who] [V: sang] [ARG1: the song] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "singer",
+            "who",
+            "sang",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drew",
+                "description": "[ARG0: The child] [V: drew] [ARG1: the picture] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the child] [ARGM-PRD: who drew the picture] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "drew",
+                "description": "It was [ARG0: the child] [R-ARG0: who] [V: drew] [ARG1: the picture] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "child",
+            "who",
+            "drew",
+            "the",
+            "picture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "piloted",
+                "description": "[ARG0: The captain] [V: piloted] [ARG1: the plane] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "captain",
+            "piloted",
+            "the",
+            "plane",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the captain] [ARGM-PRD: who piloted the plane] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "piloted",
+                "description": "It was [ARG0: the captain] [R-ARG0: who] [V: piloted] [ARG1: the plane] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "captain",
+            "who",
+            "piloted",
+            "the",
+            "plane",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "created",
+                "description": "[ARG0: The artist] [V: created] [ARG1: a sculpture] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "artist",
+            "created",
+            "a",
+            "sculpture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "It [V: was] [ARG2: the artist] [ARG1: who created a sculpture] .",
+                "tags": [
+                    "O",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "description": "It was [ARG0: the artist] [R-ARG0: who] [V: created] [ARG1: a sculpture] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "artist",
+            "who",
+            "created",
+            "a",
+            "sculpture",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "found",
+                "description": "[ARG0: The boy] [V: found] [ARG1: the treasure] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "boy",
+            "found",
+            "the",
+            "treasure",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the boy] [ARGM-PRD: who found the treasure] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "found",
+                "description": "It was [ARG0: the boy] [R-ARG0: who] [V: found] [ARG1: the treasure] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "boy",
+            "who",
+            "found",
+            "the",
+            "treasure",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wrote",
+                "description": "[ARG0: The writer] [V: wrote] [ARG1: the book] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "writer",
+            "wrote",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the writer] [ARGM-PRD: who wrote the book] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "wrote",
+                "description": "It was [ARG0: the writer] [R-ARG0: who] [V: wrote] [ARG1: the book] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "writer",
+            "who",
+            "wrote",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "discovered",
+                "description": "[ARG0: The scientist] [V: discovered] [ARG1: a planet] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "scientist",
+            "discovered",
+            "a",
+            "planet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the scientist] [ARGM-PRD: who discovered a planet] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "discovered",
+                "description": "It was [ARG0: the scientist] [R-ARG0: who] [V: discovered] [ARG1: a planet] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "scientist",
+            "who",
+            "discovered",
+            "a",
+            "planet",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "wore",
+                "description": "[ARG0: The model] [V: wore] [ARG1: the dress] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "model",
+            "wore",
+            "the",
+            "dress",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the model who wore the dress] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "I-ARG2",
+                    "O"
+                ]
+            },
+            {
+                "verb": "wore",
+                "description": "It was [ARG0: the model] [R-ARG0: who] [V: wore] [ARG1: the dress] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "model",
+            "who",
+            "wore",
+            "the",
+            "dress",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ate",
+                "description": "[ARG0: The child] [V: ate] [ARG1: the candy] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "ate",
+            "the",
+            "candy",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "[ARG1: It] [V: was] [ARG2: the child] [ARGM-PRD: who ate the candy] .",
+                "tags": [
+                    "B-ARG1",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "ate",
+                "description": "It was [ARG0: the child] [R-ARG0: who] [V: ate] [ARG1: the candy] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "child",
+            "who",
+            "ate",
+            "the",
+            "candy",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "designed",
+                "description": "[ARG0: The engineer] [V: designed] [ARG1: the building] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engineer",
+            "designed",
+            "the",
+            "building",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "was",
+                "description": "It [V: was] [ARG2: the engineer] [ARGM-PRD: who designed the building] .",
+                "tags": [
+                    "O",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "I-ARGM-PRD",
+                    "O"
+                ]
+            },
+            {
+                "verb": "designed",
+                "description": "It was [ARG0: the engineer] [R-ARG0: who] [V: designed] [ARG1: the building] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-R-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "It",
+            "was",
+            "the",
+            "engineer",
+            "who",
+            "designed",
+            "the",
+            "building",
+            "."
+        ]
+    }
+]

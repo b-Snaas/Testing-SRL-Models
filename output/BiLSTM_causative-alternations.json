@@ -1,0 +1,2203 @@
+[
+    {
+        "verbs": [
+            {
+                "verb": "opened",
+                "description": "[ARG1: The door] [V: opened] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "door",
+            "opened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "opened",
+                "description": "[ARG0: John] [V: opened] [ARG1: the door] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "John",
+            "opened",
+            "the",
+            "door",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "stopped",
+                "description": "[ARG1: The car] [V: stopped] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "car",
+            "stopped",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "stopped",
+                "description": "[ARG0: The mechanic] [V: stopped] [ARG1: the car] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "mechanic",
+            "stopped",
+            "the",
+            "car",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "bloomed",
+                "description": "[ARG1: The flower] [V: bloomed] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "flower",
+            "bloomed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "made",
+                "description": "[ARG0: The gardener] [V: made] [ARG1: the flower bloom] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "gardener",
+            "made",
+            "the",
+            "flower",
+            "bloom",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "rose",
+                "description": "[ARG1: The bread] [V: rose] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bread",
+            "rose",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "let",
+                "description": "[ARG0: The baker] [V: let] [ARG1: the bread rise] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "rise",
+                "description": "The baker let [ARG1: the bread] [V: rise] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baker",
+            "let",
+            "the",
+            "bread",
+            "rise",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "boiled",
+                "description": "[ARG1: The water] [V: boiled] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "water",
+            "boiled",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "boiled",
+                "description": "[ARG0: The chef] [V: boiled] [ARG1: the water] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chef",
+            "boiled",
+            "the",
+            "water",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "shattered",
+                "description": "[ARG1: The window] [V: shattered] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "window",
+            "shattered",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "shattered",
+                "description": "[ARG0: The baseball] [V: shattered] [ARG1: the window] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "baseball",
+            "shattered",
+            "the",
+            "window",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "dried",
+                "description": "[ARG1: The clothes] [V: dried] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "clothes",
+            "dried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "dried",
+                "description": "[ARG0: The wind] [V: dried] [ARG1: the clothes] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wind",
+            "dried",
+            "the",
+            "clothes",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "rebooted",
+                "description": "[ARG0: The computer] [V: rebooted] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "computer",
+            "rebooted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "rebooted",
+                "description": "[ARG0: The technician] [V: rebooted] [ARG1: the computer] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "technician",
+            "rebooted",
+            "the",
+            "computer",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "broke",
+                "description": "[ARG1: The vase] [V: broke] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "vase",
+            "broke",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "broke",
+                "description": "[ARG0: The child] [V: broke] [ARG1: the vase] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "broke",
+            "the",
+            "vase",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "grew",
+                "description": "[ARG1: The tree] [V: grew] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "tree",
+            "grew",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "helped",
+                "description": "[ARG0: The gardener] [V: helped] [ARG1: the tree grow] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "grow",
+                "description": "The gardener helped [ARG1: the tree] [V: grow] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "gardener",
+            "helped",
+            "the",
+            "tree",
+            "grow",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "popped",
+                "description": "[ARG1: The balloon] [V: popped] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "balloon",
+            "popped",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "popped",
+                "description": "[ARG0: The girl] [V: popped] [ARG1: the balloon] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "girl",
+            "popped",
+            "the",
+            "balloon",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "bounced",
+                "description": "[ARG1: The ball] [V: bounced] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "ball",
+            "bounced",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "bounced",
+                "description": "[ARG0: The player] [V: bounced] [ARG1: the ball] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "player",
+            "bounced",
+            "the",
+            "ball",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "closed",
+                "description": "[ARG1: The door] [V: closed] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "door",
+            "closed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "closed",
+                "description": "[ARG0: The wind] [V: closed] [ARG1: the door] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wind",
+            "closed",
+            "the",
+            "door",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "started",
+                "description": "[ARG1: The engine] [V: started] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engine",
+            "started",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "started",
+                "description": "[ARG0: The driver] [V: started] [ARG1: the engine] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "started",
+            "the",
+            "engine",
+            "."
+        ]
+    },
+    {
+        "verbs": [],
+        "words": [
+            "The",
+            "phone",
+            "rang",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "made",
+                "description": "[ARG0: The caller] [V: made] [ARG1: the phone ring] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "caller",
+            "made",
+            "the",
+            "phone",
+            "ring",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ended",
+                "description": "[ARG1: The song] [V: ended] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "song",
+            "ended",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ended",
+                "description": "[ARG0: The singer] [V: ended] [ARG1: the song] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "singer",
+            "ended",
+            "the",
+            "song",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "melted",
+                "description": "[ARG1: The ice] [V: melted] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "ice",
+            "melted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "melted",
+                "description": "[ARG0: The sun] [V: melted] [ARG1: the ice] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "sun",
+            "melted",
+            "the",
+            "ice",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "broke",
+                "description": "[ARG1: The window] [V: broke] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "window",
+            "broke",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "broke",
+                "description": "[ARG0: The child] [V: broke] [ARG1: the window] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "child",
+            "broke",
+            "the",
+            "window",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "grew",
+                "description": "[ARG1: The grass] [V: grew] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "grass",
+            "grew",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "made",
+                "description": "[ARG0: The rain] [V: made] [ARG1: the grass grow] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "grow",
+                "description": "The rain made [ARG1: the grass] [V: grow] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "rain",
+            "made",
+            "the",
+            "grass",
+            "grow",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "turned",
+                "description": "[ARG1: The light] [V: turned] on .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "light",
+            "turned",
+            "on",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "turned",
+                "description": "[ARG0: She] [V: turned] on [ARG1: the light] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "turned",
+            "on",
+            "the",
+            "light",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "barked",
+                "description": "[ARG0: The dog] [V: barked] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "dog",
+            "barked",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "made",
+                "description": "[ARG0: The noise] [V: made] [ARG1: the dog bark] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "noise",
+            "made",
+            "the",
+            "dog",
+            "bark",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "fell",
+                "description": "[ARG1: The leaves] [V: fell] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "leaves",
+            "fell",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "made",
+                "description": "[ARG0: The wind] [V: made] [ARG1: the leaves fall] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            },
+            {
+                "verb": "fall",
+                "description": "The wind made [ARG1: the leaves] [V: fall] .",
+                "tags": [
+                    "O",
+                    "O",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wind",
+            "made",
+            "the",
+            "leaves",
+            "fall",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "tore",
+                "description": "[ARG0: The paper] [V: tore] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "paper",
+            "tore",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "tore",
+                "description": "[ARG0: He] [V: tore] [ARG1: the paper] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "tore",
+            "the",
+            "paper",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "closed",
+                "description": "[ARG1: The book] [V: closed] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "book",
+            "closed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "closed",
+                "description": "[ARG0: She] [V: closed] [ARG1: the book] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "closed",
+            "the",
+            "book",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "rang",
+                "description": "[ARG0: The bell] [V: rang] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "bell",
+            "rang",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "rang",
+                "description": "[ARG0: The student] [V: rang] [ARG1: the bell] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "student",
+            "rang",
+            "the",
+            "bell",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "deflated",
+                "description": "[ARG1: The tire] [V: deflated] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "tire",
+            "deflated",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "deflated",
+                "description": "[ARG0: The nail] [V: deflated] [ARG1: the tire] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "nail",
+            "deflated",
+            "the",
+            "tire",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "started",
+                "description": "[ARG1: The machine] [V: started] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "machine",
+            "started",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "started",
+                "description": "[ARG0: The engineer] [V: started] [ARG1: the machine] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "engineer",
+            "started",
+            "the",
+            "machine",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cracked",
+                "description": "[ARG1: The egg] [V: cracked] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "egg",
+            "cracked",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cracked",
+                "description": "[ARG0: She] [V: cracked] [ARG1: the egg] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "cracked",
+            "the",
+            "egg",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "opened",
+                "description": "[ARG1: The curtains] [V: opened] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "curtains",
+            "opened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "opened",
+                "description": "[ARG0: He] [V: opened] [ARG1: the curtains] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "opened",
+            "the",
+            "curtains",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "locked",
+                "description": "[ARG1: The door] [V: locked] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "door",
+            "locked",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "locked",
+                "description": "[ARG0: He] [V: locked] [ARG1: the door] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "locked",
+            "the",
+            "door",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ended",
+                "description": "[ARG1: The show] [V: ended] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "show",
+            "ended",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "ended",
+                "description": "[ARG0: The director] [V: ended] [ARG1: the show] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "director",
+            "ended",
+            "the",
+            "show",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "flickered",
+                "description": "[ARG1: The candle] [V: flickered] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "candle",
+            "flickered",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "flickered",
+                "description": "[ARG0: She] [V: flickered] [ARG1: the candle] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "She",
+            "flickered",
+            "the",
+            "candle",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "flowed",
+                "description": "[ARG1: The river] [V: flowed] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "river",
+            "flowed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "flowed",
+                "description": "[ARG0: The current] [V: flowed] [ARG1: the river] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "current",
+            "flowed",
+            "the",
+            "river",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "melted",
+                "description": "[ARG1: The ice] [V: melted] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "ice",
+            "melted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "melted",
+                "description": "[ARG0: The heat] [V: melted] [ARG1: the ice] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "heat",
+            "melted",
+            "the",
+            "ice",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "hardened",
+                "description": "[ARG1: The chocolate] [V: hardened] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "chocolate",
+            "hardened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "hardened",
+                "description": "[ARG0: The cold] [V: hardened] [ARG1: the chocolate] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "cold",
+            "hardened",
+            "the",
+            "chocolate",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "dried",
+                "description": "[ARG1: The paint] [V: dried] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "paint",
+            "dried",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "dried",
+                "description": "[ARG0: The air] [V: dried] [ARG1: the paint] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "air",
+            "dried",
+            "the",
+            "paint",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "switched",
+                "description": "[ARG1: The lamp] [V: switched] off .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "lamp",
+            "switched",
+            "off",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "switched",
+                "description": "[ARG0: He] [V: switched] off [ARG1: the lamp] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "He",
+            "switched",
+            "off",
+            "the",
+            "lamp",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "turned",
+                "description": "[ARG1: The television] [V: turned] off .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "television",
+            "turned",
+            "off",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "turned",
+                "description": "[ARG0: The remote] [V: turned] off [ARG1: the television] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "O",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "remote",
+            "turned",
+            "off",
+            "the",
+            "television",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "stopped",
+                "description": "[ARG1: The music] [V: stopped] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "music",
+            "stopped",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "stopped",
+                "description": "[ARG0: The DJ] [V: stopped] [ARG1: the music] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "DJ",
+            "stopped",
+            "the",
+            "music",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "spun",
+                "description": "[ARG1: The wheel] [V: spun] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "wheel",
+            "spun",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "spun",
+                "description": "[ARG0: The driver] [V: spun] [ARG1: the wheel] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "driver",
+            "spun",
+            "the",
+            "wheel",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cooled",
+                "description": "[ARG1: The soup] [V: cooled] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "soup",
+            "cooled",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "cooled",
+                "description": "[ARG0: The air] [V: cooled] [ARG1: the soup] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "air",
+            "cooled",
+            "the",
+            "soup",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "tightened",
+                "description": "[ARG1: The knot] [V: tightened] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "knot",
+            "tightened",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "tightened",
+                "description": "[ARG0: Frank] [V: tightened] [ARG1: the knot] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Frank",
+            "tightened",
+            "the",
+            "knot",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "shifted",
+                "description": "[ARG1: The rocks] [V: shifted] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "rocks",
+            "shifted",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "shifted",
+                "description": "[ARG0: The earthquake] [V: shifted] [ARG1: the rocks] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "earthquake",
+            "shifted",
+            "the",
+            "rocks",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drained",
+                "description": "[ARG1: The battery] [V: drained] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "battery",
+            "drained",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "drained",
+                "description": "[ARG0: The device] [V: drained] [ARG1: the battery] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "device",
+            "drained",
+            "the",
+            "battery",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "burned",
+                "description": "[ARG1: The toast] [V: burned] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "toast",
+            "burned",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "burned",
+                "description": "[ARG0: Mark] [V: burned] [ARG1: the toast] .",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "Mark",
+            "burned",
+            "the",
+            "toast",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "formed",
+                "description": "[ARG1: The line] [V: formed] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "line",
+            "formed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "formed",
+                "description": "[ARG0: The crowd] [V: formed] [ARG1: the line] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "crowd",
+            "formed",
+            "the",
+            "line",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "accumulated",
+                "description": "[ARG1: The snow] [V: accumulated] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "snow",
+            "accumulated",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "accumulated",
+                "description": "[ARG0: The blizzard] [V: accumulated] [ARG1: the snow] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "blizzard",
+            "accumulated",
+            "the",
+            "snow",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "slowed",
+                "description": "[ARG1: The traffic] [V: slowed] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "traffic",
+            "slowed",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "slowed",
+                "description": "[ARG0: The accident] [V: slowed] [ARG1: the traffic] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "accident",
+            "slowed",
+            "the",
+            "traffic",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "evaporated",
+                "description": "[ARG1: The puddle] [V: evaporated] .",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "B-V",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "puddle",
+            "evaporated",
+            "."
+        ]
+    },
+    {
+        "verbs": [
+            {
+                "verb": "evaporated",
+                "description": "[ARG0: The sun] [V: evaporated] [ARG1: the puddle] .",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ],
+        "words": [
+            "The",
+            "sun",
+            "evaporated",
+            "the",
+            "puddle",
+            "."
+        ]
+    }
+]
